@@ -1,0 +1,2 @@
+# LTspice simulation output can be very large and is regenerated locally.
+*.raw
