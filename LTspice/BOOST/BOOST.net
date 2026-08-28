@@ -60,7 +60,7 @@ R54 N033 N036 1800
 R55 0 N033 100
 X§M8 Output3_drain N043 N042 HYG180N10 ;§pnba D)G)S
 R7 N042 0 .05
-V§Iref3 N047 0 220µ
+V§Iref3 N047 0 2.25
 R10 N044 N047 1800
 R29 0 N044 100
 X§M10 Output1_drain N023 N022 HYG180N10 ;§pnba D)G)S
@@ -283,7 +283,7 @@ C88 Vout_1 0 220µ V=50 Irms=4.5 Rser=0.01 Lser=4n Rpar=455k
 .model SW SW(Ron=0.01 Roff=1Meg Vt=2.5 Vh=0)
 .ic V(Out)=0 V(Out-)=1 V(C10)=0 V(C5)=0 V(C2)=0
 .include MCP6561.lib
-.tran 20m startup uic
+.tran 30m startup uic
 .ic I(L1)=0 V(0A_hi)=5
 .lib CD4000_v.lib
 .lib SwitchAna.lib

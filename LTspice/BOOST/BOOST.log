@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\bubba\OneDrive\Documents\LTspice\BOOST-github\LTspice\BOOST\BOOST.net
-Start Time: Fri Aug 28 01:04:31 2026
+Start Time: Fri Aug 28 11:06:17 2026
 Options:gmin=100f reltol=0.001
 solver = Normal
 Maximum thread count: 32
@@ -23,7 +23,7 @@ C88: Increased Cpar to 2.2e-10
 Per .tran options, skipping operating point for transient analysis.
 
 Simulation stopped by user.
-Total elapsed time: 22.517 seconds.
+Total elapsed time: 1.911 seconds.
 
 Files loaded:
 C:\Users\bubba\OneDrive\Documents\LTspice\BOOST-github\LTspice\BOOST\BOOST.net
