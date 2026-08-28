@@ -1,0 +1,19 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\cd4051.net
+Start Time: Sun Aug 16 22:26:48 2026
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.141 seconds.
+
+Files loaded:
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\cd4051.net
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\SwitchAna.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\CD4000_v.lib
+

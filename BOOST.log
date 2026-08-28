@@ -1,0 +1,155 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\BOOST.net
+Start Time: Thu Aug 27 16:52:58 2026
+Options:gmin=100f reltol=0.001
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+gmin = 1e-13
+C69: Increased Cpar to 6.8e-10
+C86: Increased Cpar to 2.2e-10
+C40: Increased Cpar to 6.8e-10
+C70: Increased Cpar to 2.2e-10
+C71: Increased Cpar to 2.2e-10
+C78: Increased Cpar to 2.2e-10
+C74: Increased Cpar to 2.2e-10
+C75: Increased Cpar to 2.2e-10
+C77: Increased Cpar to 2.2e-10
+C85: Increased Cpar to 6.8e-10
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 626.786 seconds.
+
+Files loaded:
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\BOOST.net
+C:\Users\bubba\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\bubba\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\MCP6241.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\MCP6561.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\CD4000_v.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\SwitchAna.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\HYG180N10.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\INA241A3.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\L7805.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\LM78L05.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\LM2940_12.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\TVS_5KP.lib
+C:\Users\bubba\OneDrive\Documents\LTspice\BOOST\UCC21520.lib
+
+ptvs: AVG((-1)*V(LX)*I(D19) )=0.00124634594193 FROM 0.002 TO 0.013
+etvs: INTEG(-1)*V(LX)*I(D19)=0.000277347963891 FROM 0 TO 0.22
+iin_c40: RMS(I(C40)   )=3.65727848234 FROM 0.035 TO 0.039
+iin_c69: RMS(I(C69)   )=3.65727848234 FROM 0.035 TO 0.039
+iin_c85: RMS(I(C85)   )=3.65727848234 FROM 0.035 TO 0.039
+io1_c70: RMS(I(C70)   )=3.31121124951 FROM 0.035 TO 0.039
+io1_c86: RMS(I(C86)   )=3.31121124951 FROM 0.035 TO 0.039
+io2_c71: RMS(I(C71)   )=3.71267028899 FROM 0.035 TO 0.039
+io2_c78: RMS(I(C78)   )=3.71267028899 FROM 0.035 TO 0.039
+io3_c74: RMS(I(C74)   )=2.69065878588 FROM 0.035 TO 0.039
+io3_c75: RMS(I(C75)   )=2.69065878588 FROM 0.035 TO 0.039
+io3_c77: RMS(I(C77)   )=2.69065878588 FROM 0.035 TO 0.039
+iin_cer: RMS(I(C79)   )=0.083663496918 FROM 0.035 TO 0.039
+io1_cer: RMS(I(C1)    )=1.2741790199 FROM 0.035 TO 0.039
+vin_avg: AVG(V(Vin)     )=13.7712676641 FROM 0.035 TO 0.039
+vin_pp: PP(V(Vin)     )=0.173986434937 FROM 0.035 TO 0.039
+vin_min: MIN(V(Vin)     )=13.6767778397 FROM 0.035 TO 0.039
+vo1_avg: AVG(V(Vout_1)  )=23.1646392158 FROM 0.035 TO 0.039
+vo1_pp: PP(V(Vout_1)  )=0.767024993896 FROM 0.035 TO 0.039
+vo2_avg: AVG(V(Vout_2)  )=32.9551629735 FROM 0.035 TO 0.039
+vo2_pp: PP(V(Vout_2)  )=1.02564620972 FROM 0.035 TO 0.039
+vo3_avg: AVG(V(Vout_3)  )=33.1934794174 FROM 0.035 TO 0.039
+vo3_pp: PP(V(Vout_3)  )=0.965335845947 FROM 0.035 TO 0.039
+il_pk: MAX(abs(I(L1))          )=40.5239524841 FROM 0.035 TO 0.039
+il_rms: RMS(I(L1)               )=20.6537245311 FROM 0.035 TO 0.039
+il_avg: AVG(abs(I(L1))          )=17.569747736 FROM 0.035 TO 0.039
+p_l1: AVG(I(L1)*I(L1)*1.6m    )=0.682522139212 FROM 0.035 TO 0.039
+p_r1shunt: AVG(I(R1)*I(R1)*2m      )=0.853152674578 FROM 0.035 TO 0.039
+im1_rms: RMS(I(R62)              )=15.7220942101 FROM 0.035 TO 0.039
+p_m1: IM1_rms*IM1_rms*0.0176=4.3504427358
+ich1_rms: RMS(I(R12)              )=7.10115805252 FROM 0.035 TO 0.039
+ich2_rms: RMS(I(R24)              )=7.69202136945 FROM 0.035 TO 0.039
+ich3_rms: RMS(I(R30)              )=8.3548874097 FROM 0.035 TO 0.039
+p_ch1sw: Ich1_rms*Ich1_rms*0.0352=1.77501088818
+p_ch2sw: Ich2_rms*Ich2_rms*0.0352=2.08268518473
+p_ch3sw: Ich3_rms*Ich3_rms*0.0352=2.45710585573
+vlx_max: MAX(V(LX)                    )=35.5342826843 FROM 0.035 TO 0.039
+vlx_min: MIN(V(LX)                    )=-0.533277332783 FROM 0.035 TO 0.039
+itvs_pk: MAX(abs(I(D19))              )=5.45161962509 FROM 0.035 TO 0.039
+ptvs_ss: AVG((-1)*V(LX)*I(D19)        )=0.00126438832214 FROM 0.035 TO 0.039
+etvs_all: INTEG(-1)*V(LX)*I(D19)=0.000277347963891 FROM 0 TO 0.22
+ishoot_m1: MAX((I(R62)+I(L1))  )=8.87128639221 FROM 0.035 TO 0.039
+irev_ch1: MAX(I(R12)          )=2.05050754547 FROM 0.035 TO 0.039
+irev_ch2: MAX(I(R24)          )=1.75515091419 FROM 0.035 TO 0.039
+irev_ch3: MAX(I(R30)          )=1.76052117348 FROM 0.035 TO 0.039
+qsh_a: V(Qshoot) =0.000492113818553 at 0.035
+qsh_b: V(Qshoot) =0.000548450858332 at 0.039
+qrv1_a: V(Qrev1)  =2.06059576158e-05 at 0.035
+qrv1_b: V(Qrev1)  =2.30528967222e-05 at 0.039
+qrv2_a: V(Qrev2)  =2.17747765419e-05 at 0.035
+qrv2_b: V(Qrev2)  =2.43326376221e-05 at 0.039
+qrv3_a: V(Qrev3)  =2.1752266548e-05 at 0.035
+qrv3_b: V(Qrev3)  =2.43389495154e-05 at 0.039
+i_shoot_avg: (Qsh_b-Qsh_a)/4m=0.0140842599449
+i_rev1_avg: (Qrv1_b-Qrv1_a)/4m=0.000611734776612
+i_rev2_avg: (Qrv2_b-Qrv2_a)/4m=0.000639465270069
+i_rev3_avg: (Qrv3_b-Qrv3_a)/4m=0.000646670741844
+vbs1_min: MIN(V(N020,m2_source) )=10.7141466476 FROM 0.035 TO 0.039
+vbs2_min: MIN(V(N041,m3_source) )=10.7262376733 FROM 0.035 TO 0.039
+vbs3_min: MIN(V(N053,m4_source) )=10.7216931321 FROM 0.035 TO 0.039
+vg_m1max: MAX(V(GATE_M1)                 )=11.9911327362 FROM 0.035 TO 0.039
+vg_m2max: MAX(V(GATE_M2,m2_source)       )=10.722536087 FROM 0.035 TO 0.039
+vg_m7max: MAX(V(GATE_M7,m2_source)       )=10.8562736511 FROM 0.035 TO 0.039
+vg_m3max: MAX(V(GATE_M3,m3_source)       )=10.7257843018 FROM 0.035 TO 0.039
+vg_m6max: MAX(V(GATE_M6,m3_source)       )=10.8658905029 FROM 0.035 TO 0.039
+vg_m4max: MAX(V(GATE_M4,m4_source)       )=10.825958252 FROM 0.035 TO 0.039
+vg_m5max: MAX(V(GATE_M5,m4_source)       )=10.8661117554 FROM 0.035 TO 0.039
+ibs1_avg: AVG(I(D10)  )=0.00386226732132 FROM 0.035 TO 0.039
+ibs2_avg: AVG(I(D9)   )=0.00388221925063 FROM 0.035 TO 0.039
+ibs3_avg: AVG(I(D21)  )=0.00382409571855 FROM 0.035 TO 0.039
+v12_avg: AVG(V(12V)        )=11.9920540516 FROM 0.035 TO 0.039
+v12_min: MIN(V(12V)        )=11.9889965057 FROM 0.035 TO 0.039
+vdd_min: MIN(V(VDD)        )=4.99958848953 FROM 0.035 TO 0.039
+vdd_pp: PP(V(VDD)        )=0 FROM 0.035 TO 0.039
+va5_min: MIN(V(analog_5V)  )=4.99984502792 FROM 0.035 TO 0.039
+va5_pp: PP(V(analog_5V)  )=0 FROM 0.035 TO 0.039
+vpg_avg: AVG(V(N013)       )=0.0102633163333 FROM 0.035 TO 0.039
+verr_max: MAX(V(V_err)    )=4.05505895615 FROM 0.035 TO 0.039
+isns_max: MAX(V(Current)  )=4.03155183792 FROM 0.035 TO 0.039
+clip_marg: Isns_max-Verr_max=-0.0235071182251
+verr1_avg: AVG(V(Verr1)    )=2.41671983358 FROM 0.035 TO 0.039
+verr2_avg: AVG(V(Verr2)    )=3.36379469429 FROM 0.035 TO 0.039
+verr3_avg: AVG(V(Verr3)    )=3.70251910187 FROM 0.035 TO 0.039
+vtimeout: AVG(V(low_error_timeout) )=4.98695755005 FROM 0.035 TO 0.039
+iled1_avg: AVG(I(D16) )=2.63103471528 FROM 0.035 TO 0.039
+iled1_pp: PP(I(D16) )=0.0728652477264 FROM 0.035 TO 0.039
+iled2_avg: AVG(I(D18) )=2.36788724232 FROM 0.035 TO 0.039
+iled2_pp: PP(I(D18) )=0.0907530784607 FROM 0.035 TO 0.039
+iled3_avg: AVG(I(D17) )=2.63103370478 FROM 0.035 TO 0.039
+iled3_pp: PP(I(D17) )=0.0928494930267 FROM 0.035 TO 0.039
+vhead1min: MIN(V(Output1_drain,N023) )=0.815600708127 FROM 0.035 TO 0.039
+vhead1avg: AVG(V(Output1_drain,N023) )=1.22964890278 FROM 0.035 TO 0.039
+vhead2min: MIN(V(Output2_drain,N033) )=0.728580765426 FROM 0.035 TO 0.039
+vhead2avg: AVG(V(Output2_drain,N033) )=1.16192484927 FROM 0.035 TO 0.039
+vhead3min: MIN(V(Output3_drain,N045) )=0.730371251702 FROM 0.035 TO 0.039
+vhead3avg: AVG(V(Output3_drain,N045) )=1.14248996938 FROM 0.035 TO 0.039
+psink1: AVG(V(Output1_drain,N023)*I(D16) )=3.23528521848 FROM 0.035 TO 0.039
+psink2: AVG(V(Output2_drain,N033)*I(D18) )=2.75136525238 FROM 0.035 TO 0.039
+psink3: AVG(V(Output3_drain,N045)*I(D17) )=3.00598468218 FROM 0.035 TO 0.039
+pled1: AVG(V(Vout_1,Output1_drain)*I(D16) )=57.3656079192 FROM 0.035 TO 0.039
+pled2: AVG(V(Vout_2,Output2_drain)*I(D18) )=75.0024675355 FROM 0.035 TO 0.039
+pled3: AVG(V(Vout_3,Output3_drain)*I(D17) )=83.9811245292 FROM 0.035 TO 0.039
+pshunt1: AVG(I(R52)*I(R52)*0.05 )=0.346117100588 FROM 0.035 TO 0.039
+pin: AVG((-1)*V(P001)*I(V1)     )=246.578029485 FROM 0.035 TO 0.039
+pcable: AVG(I(R99)*I(R99)*0.012    )=3.72616038401 FROM 0.035 TO 0.039
+pled_tot: Pled1+Pled2+Pled3=216.349199984
+psink_tot: Psink1+Psink2+Psink3=8.99263515305
+eff_led: Pled_tot/Pin=0.877406638523
+vsrv1_avg: AVG(V(N064) )=2.88636440472 FROM 0.035 TO 0.039
+vsrv2_avg: AVG(V(N065) )=3.86422880406 FROM 0.035 TO 0.039
+vsrv3_avg: AVG(V(N058) )=3.89661786127 FROM 0.035 TO 0.039
+vsmp1_avg: AVG(V(N062) )=0.15969483036 FROM 0.035 TO 0.039
+vsmp2_avg: AVG(V(N063) )=0.159683977226 FROM 0.035 TO 0.039
+vsmp3_avg: AVG(V(N057) )=0.159683582841 FROM 0.035 TO 0.039
+t_round=0.000101605475657 FROM 0.03509120111 TO 0.0351928065857
+t_m1on=-1.96004720092e-05 FROM 0.0350238040901 TO 0.0350042036181
