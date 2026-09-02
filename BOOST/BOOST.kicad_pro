@@ -632,7 +632,7 @@
         "uuid": "dc4aa17e-0995-4bac-889e-471ae16ef44e"
       }
     ],
-    "used_designators": "#PWR24-36,R29-30,R54-55,R57-58,R77,R100-101,#GND110,#GND122,#GND128,#GND134,#GND156-164,C47,C93-103,U29-30",
+    "used_designators": "#GND165-166",
     "variants": []
   },
   "sheets": [
