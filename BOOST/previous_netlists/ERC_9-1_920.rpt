@@ -1,0 +1,1303 @@
+ERC report (2026-09-01T21:21:36, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[missing_power_pin]: Symbol U26 has input power pins in units [ E ] that are not placed
+    ; error
+    @(182.88 mm, 321.31 mm): Symbol U26 [MCP4451-xxxx-ST]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(392.43 mm, 146.05 mm): Symbol U15 Pin 11 [VDDB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(392.43 mm, 151.13 mm): Symbol U15 Pin 9 [VSSB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(424.18 mm, 203.20 mm): Symbol U10 Pin 11 [VDDB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(444.50 mm, 160.02 mm): Symbol U19 Pin 11 [VDDB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(424.18 mm, 208.28 mm): Symbol U10 Pin 9 [VSSB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(412.75 mm, 245.11 mm): Symbol U8 Pin 11 [VDDB, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(412.75 mm, 250.19 mm): Symbol U8 Pin 9 [VSSB, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24.13 mm, 111.76 mm): Horizontal Wire, length 2.54 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(22.86 mm, 111.76 mm): Symbol C81 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(29.21 mm, 111.76 mm): Symbol C83 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(24.13 mm, 116.84 mm): Symbol #GND146 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(118.11 mm, 22.86 mm): Symbol #GND041 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(30.48 mm, 116.84 mm): Symbol #GND150 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(119.38 mm, 30.48 mm): Symbol R68 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(101.60 mm, 72.39 mm): Symbol C54 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(119.38 mm, 39.37 mm): Symbol R67 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(59.69 mm, 111.76 mm): Symbol C56 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(44.45 mm, 119.38 mm): Symbol #GND0166 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(102.87 mm, 77.47 mm): Symbol #GND087 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(64.77 mm, 111.76 mm): Symbol C55 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(24.13 mm, 127.00 mm): Symbol C80 [cap]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 127.00 mm): Horizontal Wire, length 1.27 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(29.21 mm, 127.00 mm): Symbol C82 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(60.96 mm, 116.84 mm): Symbol #GND088 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(66.04 mm, 116.84 mm): Symbol #GND089 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(25.40 mm, 132.08 mm): Symbol #GND147 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(30.48 mm, 132.08 mm): Symbol #GND149 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(130.81 mm, 35.56 mm): Symbol #GND040 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(129.54 mm, 44.45 mm): Symbol C52 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(130.81 mm, 43.18 mm): Symbol U14 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(58.42 mm, 127.00 mm): Symbol C39 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(130.81 mm, 49.53 mm): Symbol #GND085 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(135.89 mm, 38.10 mm): Symbol R69 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(43.18 mm, 134.62 mm): Symbol #GND0165 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(66.04 mm, 127.00 mm): Symbol C7 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(142.24 mm, 22.86 mm): Symbol R71 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(59.69 mm, 132.08 mm): Symbol #GND076 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(143.51 mm, 24.13 mm): Symbol C15 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(144.78 mm, 29.21 mm): Symbol #GND042 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(67.31 mm, 132.08 mm): Symbol #GND059 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(144.78 mm, 43.18 mm): Symbol C14 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(149.86 mm, 33.02 mm): Symbol C53 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(149.86 mm, 34.29 mm): Symbol #GND086 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(146.05 mm, 48.26 mm): Symbol #GND039 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(154.94 mm, 22.86 mm): Symbol D4 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(63.50 mm, 147.32 mm): Symbol C79 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(67.31 mm, 147.32 mm): Symbol C84 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(156.21 mm, 48.26 mm): Symbol #GND038 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(64.77 mm, 152.40 mm): Symbol #GND148 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(77.47 mm, 147.32 mm): Symbol U16 [LM2940_12]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(68.58 mm, 152.40 mm): Symbol #GND151 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(161.29 mm, 48.26 mm): Symbol Q1 [pnp]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(77.47 mm, 149.86 mm): Symbol #GND090 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(162.56 mm, 45.72 mm): Symbol R65 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(168.91 mm, 35.56 mm): Symbol R66 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(92.71 mm, 147.32 mm): Symbol C30 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(171.45 mm, 45.72 mm): Symbol D3 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(93.98 mm, 152.40 mm): Symbol #GND069 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(172.72 mm, 63.50 mm): Symbol C12 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(173.99 mm, 68.58 mm): Symbol #GND060 [GND]
+[multiple_net_names]: Both Vin and rsense_hi are attached to the same items; Vin will be used in the netlist
+    ; warning
+    @(194.31 mm, 134.62 mm): Global Label 'Vin'
+    @(196.85 mm, 129.54 mm): Global Label 'rsense_hi'
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(200.66 mm, 139.70 mm): Symbol C69 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(207.01 mm, 133.35 mm): Symbol R1 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(205.74 mm, 139.70 mm): Symbol C40 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(209.55 mm, 139.70 mm): Symbol C85 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(215.90 mm, 133.35 mm): Symbol L1 [ind]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(214.63 mm, 140.97 mm): Symbol M1 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(220.98 mm, 133.35 mm): Symbol R14 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(243.84 mm, 88.90 mm): Symbol C21 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(245.11 mm, 93.98 mm): Symbol #GND062 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(222.25 mm, 140.97 mm): Symbol #GND005 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(248.92 mm, 88.90 mm): Symbol C20 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(218.44 mm, 149.86 mm): Symbol #GND001 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 93.98 mm): Symbol #GND061 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(231.14 mm, 138.43 mm): Symbol M7 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 130.81 mm): Symbol M2 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(245.11 mm, 146.05 mm): Symbol C86 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(248.92 mm, 139.70 mm): Symbol C70 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(229.87 mm, 170.18 mm): Symbol M6 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(246.38 mm, 151.13 mm): Symbol #GND152 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 144.78 mm): Symbol #GND136 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(254.00 mm, 139.70 mm): Symbol C88 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(262.89 mm, 127.00 mm): Symbol C72 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(259.08 mm, 137.16 mm): Symbol C1 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(255.27 mm, 144.78 mm): Symbol #GND137 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(264.16 mm, 132.08 mm): Symbol #GND138 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(215.90 mm, 203.20 mm): Symbol #GND093 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(260.35 mm, 142.24 mm): Symbol #GND011 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(217.17 mm, 203.20 mm): Symbol D19 [TVSdiode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 162.56 mm): Symbol M3 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(271.78 mm, 135.89 mm): Symbol U11 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(275.59 mm, 130.81 mm): Symbol C35 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(229.87 mm, 200.66 mm): Symbol M5 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 175.26 mm): Symbol C71 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(29.21 mm, 304.80 mm): Symbol R29 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(271.78 mm, 143.51 mm): Symbol #GND034 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(257.81 mm, 168.91 mm): Symbol C3 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(276.86 mm, 135.89 mm): Symbol #GND072 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(251.46 mm, 180.34 mm): Symbol #GND153 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(281.94 mm, 134.62 mm): Symbol M10 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(233.68 mm, 208.28 mm): Symbol C4 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(259.08 mm, 176.53 mm): Symbol #GND029 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(264.16 mm, 168.91 mm): Symbol C73 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(269.24 mm, 162.56 mm): Symbol C78 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(281.94 mm, 139.70 mm): Symbol R56 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(279.40 mm, 147.32 mm): Symbol C45 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(238.76 mm, 208.28 mm): Symbol C76 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(251.46 mm, 193.04 mm): Symbol M4 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(234.95 mm, 213.36 mm): Symbol #GND145 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(265.43 mm, 173.99 mm): Symbol #GND140 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(267.97 mm, 170.18 mm): Symbol C87 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(29.21 mm, 316.23 mm): Symbol R54 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(270.51 mm, 167.64 mm): Symbol #GND141 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(284.48 mm, 143.51 mm): Symbol R52 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(280.67 mm, 152.40 mm): Symbol #GND081 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(35.56 mm, 317.50 mm): Symbol C100 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(240.03 mm, 213.36 mm): Symbol #GND144 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(269.24 mm, 175.26 mm): Symbol #GND139 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(93.98 mm, 307.34 mm): Symbol R30 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(245.11 mm, 208.28 mm): Symbol C74 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(285.75 mm, 151.13 mm): Symbol #GND035 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(275.59 mm, 171.45 mm): Symbol U12 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(36.83 mm, 322.58 mm): Symbol #GND0160 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(279.40 mm, 166.37 mm): Symbol C34 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(30.48 mm, 323.85 mm): Symbol #GND0159 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(246.38 mm, 213.36 mm): Symbol #GND143 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(251.46 mm, 208.28 mm): Symbol C77 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(299.72 mm, 133.35 mm): Symbol R6 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(275.59 mm, 179.07 mm): Symbol #GND026 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(280.67 mm, 171.45 mm): Symbol #GND071 [GND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(273.05 mm, 184.15 mm): Vertical Wire, length 2.54 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(256.54 mm, 208.28 mm): Symbol C75 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(252.73 mm, 213.36 mm): Symbol #GND155 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(93.98 mm, 318.77 mm): Symbol R55 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(285.75 mm, 170.18 mm): Symbol M9 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(307.34 mm, 128.27 mm): Symbol C103 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(257.81 mm, 213.36 mm): Symbol #GND142 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(100.33 mm, 320.04 mm): Symbol C101 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(287.02 mm, 175.26 mm): Symbol R50 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(283.21 mm, 181.61 mm): Symbol C44 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(326.39 mm, 92.71 mm): Symbol U5 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(288.29 mm, 179.07 mm): Symbol R53 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(270.51 mm, 205.74 mm): Symbol U6 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(274.32 mm, 200.66 mm): Symbol C33 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(95.25 mm, 326.39 mm): Symbol #GND0161 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(284.48 mm, 186.69 mm): Symbol #GND080 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(101.60 mm, 325.12 mm): Symbol #GND0162 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(326.39 mm, 100.33 mm): Symbol #GND003 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(331.47 mm, 90.17 mm): Symbol C22 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(320.04 mm, 125.73 mm): Symbol R101 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(275.59 mm, 205.74 mm): Symbol #GND070 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(311.15 mm, 147.32 mm): Symbol R9 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(289.56 mm, 186.69 mm): Symbol #GND027 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(255.27 mm, 232.41 mm): Symbol R87 [res]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(321.31 mm, 127.00 mm): Global Label 'Vref_1_arduino'
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(300.99 mm, 170.18 mm): Symbol R33 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 95.25 mm): Symbol #GND063 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(157.48 mm, 308.61 mm): Symbol R57 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(313.69 mm, 147.32 mm): Symbol R8 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(281.94 mm, 204.47 mm): Symbol M8 [nmos]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(280.67 mm, 209.55 mm): Symbol R22 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(274.32 mm, 218.44 mm): Symbol C41 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(309.88 mm, 165.10 mm): Symbol C93 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(255.27 mm, 243.84 mm): Symbol R88 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(325.12 mm, 139.70 mm): Symbol R2 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(321.31 mm, 148.59 mm): Symbol #GND004 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(346.71 mm, 73.66 mm): Symbol C24 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(275.59 mm, 223.52 mm): Symbol #GND077 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(284.48 mm, 213.36 mm): Symbol R7 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(157.48 mm, 320.04 mm): Symbol R58 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(347.98 mm, 78.74 mm): Symbol #GND065 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(331.47 mm, 132.08 mm): Symbol C38 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(334.01 mm, 127.00 mm): Symbol R3 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 132.08 mm): Symbol #GND075 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(328.93 mm, 143.51 mm): Symbol C46 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(256.54 mm, 251.46 mm): Symbol #GND118 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(354.33 mm, 59.69 mm): Symbol C23 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 137.16 mm): Symbol U3 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(346.71 mm, 99.06 mm): Symbol #GND068 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(163.83 mm, 321.31 mm): Symbol C102 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(322.58 mm, 162.56 mm): Symbol R100 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(285.75 mm, 220.98 mm): Symbol #GND031 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 64.77 mm): Symbol #GND064 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(330.20 mm, 148.59 mm): Symbol #GND082 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(312.42 mm, 184.15 mm): Symbol R35 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(299.72 mm, 204.47 mm): Symbol R41 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 144.78 mm): Symbol #GND002 [GND]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(323.85 mm, 163.83 mm): Global Label 'Vref_2_arduino'
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(356.87 mm, 69.85 mm): Symbol R20 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(158.75 mm, 327.66 mm): Symbol #GND0163 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(314.96 mm, 184.15 mm): Symbol R34 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(165.10 mm, 326.39 mm): Symbol #GND0164 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 90.17 mm): Symbol R17 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(274.32 mm, 243.84 mm): Symbol U106 [CD4066_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(361.95 mm, 64.77 mm): Symbol U4 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(306.07 mm, 204.47 mm): Symbol C47 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(361.95 mm, 72.39 mm): Symbol #GND008 [GND]
+[missing_bidi_pin]: Symbol U26 has bidirectional pins in units [ E ] that are not placed
+    ; warning
+    @(182.88 mm, 321.31 mm): Symbol U26 [MCP4451-xxxx-ST]
+[missing_input_pin]: Symbol U26 has input pins in units [ E ] that are not placed
+    ; warning
+    @(182.88 mm, 321.31 mm): Symbol U26 [MCP4451-xxxx-ST]
+[missing_unit]: Symbol U26 has unplaced units [ D, E ]
+    ; warning
+    @(182.88 mm, 321.31 mm): Symbol U26 [MCP4451-xxxx-ST]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(360.68 mm, 85.09 mm): Symbol U2 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(346.71 mm, 132.08 mm): Symbol #GND0109 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(326.39 mm, 176.53 mm): Symbol R31 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(349.25 mm, 127.00 mm): Symbol C92 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(322.58 mm, 185.42 mm): Symbol #GND014 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(347.98 mm, 132.08 mm): Symbol C91 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(360.68 mm, 92.71 mm): Symbol #GND006 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 168.91 mm): Symbol C37 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(335.28 mm, 163.83 mm): Symbol R32 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(364.49 mm, 81.28 mm): Symbol C26 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 114.30 mm): Symbol R76 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(283.21 mm, 243.84 mm): Symbol C49 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(327.66 mm, 180.34 mm): Symbol C43 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(345.44 mm, 143.51 mm): Symbol R27 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(334.01 mm, 168.91 mm): Symbol #GND074 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(350.52 mm, 132.08 mm): Symbol #GND092 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(365.76 mm, 86.36 mm): Symbol #GND066 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(294.64 mm, 233.68 mm): Symbol R44 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(334.01 mm, 173.99 mm): Symbol U7 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(288.29 mm, 242.57 mm): Symbol R90 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(318.77 mm, 201.93 mm): Symbol R77 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(328.93 mm, 185.42 mm): Symbol #GND079 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(354.33 mm, 132.08 mm): Symbol R28 [res]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(320.04 mm, 203.20 mm): Global Label 'Vref_3_arduino'
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(361.95 mm, 114.30 mm): Symbol R75 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(373.38 mm, 68.58 mm): Symbol R18 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 133.35 mm): Symbol #GND100 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(311.15 mm, 218.44 mm): Symbol R43 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(334.01 mm, 181.61 mm): Symbol #GND013 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 287.02 mm): Symbol R25 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(373.38 mm, 77.47 mm): Symbol R19 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(313.69 mm, 218.44 mm): Symbol R42 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(372.11 mm, 88.90 mm): Symbol R11 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(354.33 mm, 147.32 mm): Symbol #GND045 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(294.64 mm, 246.38 mm): Symbol R89 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(374.65 mm, 85.09 mm): Symbol #GND009 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(372.11 mm, 97.79 mm): Symbol R16 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 147.32 mm): Symbol C13 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(325.12 mm, 210.82 mm): Symbol R39 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(373.38 mm, 105.41 mm): Symbol #GND007 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(299.72 mm, 246.38 mm): Symbol C59 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(334.01 mm, 198.12 mm): Symbol R40 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(331.47 mm, 203.20 mm): Symbol C36 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(309.88 mm, 234.95 mm): Symbol C32 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(306.07 mm, 240.03 mm): Symbol U22 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(321.31 mm, 219.71 mm): Symbol #GND018 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(383.54 mm, 67.31 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(250.19 mm, 298.45 mm): Symbol R36 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 203.20 mm): Symbol #GND073 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(295.91 mm, 254.00 mm): Symbol #GND121 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(346.71 mm, 180.34 mm): Symbol R37 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(327.66 mm, 214.63 mm): Symbol C42 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(300.99 mm, 251.46 mm): Symbol #GND123 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 208.28 mm): Symbol U13 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(311.15 mm, 240.03 mm): Symbol #GND120 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 168.91 mm): Symbol R38 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(306.07 mm, 247.65 mm): Symbol #GND119 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(356.87 mm, 170.18 mm): Symbol #GND015 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(328.93 mm, 219.71 mm): Symbol #GND078 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(251.46 mm, 306.07 mm): Symbol #GND124 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(332.74 mm, 215.90 mm): Symbol #GND017 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(381.00 mm, 110.49 mm): Symbol D2 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(384.81 mm, 97.79 mm): Symbol R81 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(383.54 mm, 104.14 mm): Symbol #GND113 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(384.81 mm, 104.14 mm): Symbol C17 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(388.62 mm, 97.79 mm): Symbol R80 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(316.23 mm, 246.38 mm): Symbol D23 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(269.24 mm, 298.45 mm): Symbol U106 [CD4066_conv]
+[missing_input_pin]: Symbol U106 has input pins in units [ D ] that are not placed
+    ; warning
+    @(269.24 mm, 298.45 mm): Symbol U106 [CD4066_conv]
+[missing_unit]: Symbol U106 has unplaced units [ D ]
+    ; warning
+    @(269.24 mm, 298.45 mm): Symbol U106 [CD4066_conv]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(251.46 mm, 283.21 mm): Horizontal Wire, length 34.29 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(396.24 mm, 71.12 mm): Symbol U101 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(387.35 mm, 113.03 mm): Symbol R60 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(384.81 mm, 125.73 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(391.16 mm, 105.41 mm): Symbol D20 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(345.44 mm, 214.63 mm): Symbol R45 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(278.13 mm, 298.45 mm): Symbol C64 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(354.33 mm, 203.20 mm): Symbol R46 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(289.56 mm, 288.29 mm): Symbol R91 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(368.30 mm, 177.80 mm): Symbol C11 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(368.30 mm, 179.07 mm): Symbol #GND044 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(355.60 mm, 204.47 mm): Symbol #GND019 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(283.21 mm, 297.18 mm): Symbol R93 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(391.16 mm, 127.00 mm): Symbol U102 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(401.32 mm, 104.14 mm): Symbol U102 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(400.05 mm, 110.49 mm): Symbol U105 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(289.56 mm, 300.99 mm): Symbol R92 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(407.67 mm, 92.71 mm): Symbol U101 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(370.84 mm, 195.58 mm): Symbol R47 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(412.75 mm, 76.20 mm): Symbol R4 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(304.80 mm, 289.56 mm): Symbol C63 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(401.32 mm, 125.73 mm): Symbol R13 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(300.99 mm, 294.64 mm): Symbol U23 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(416.56 mm, 77.47 mm): Symbol D6 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(374.65 mm, 198.12 mm): Symbol D13 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(367.03 mm, 212.09 mm): Symbol C10 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(290.83 mm, 308.61 mm): Symbol #GND127 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(367.03 mm, 213.36 mm): Symbol #GND043 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(306.07 mm, 294.64 mm): Symbol #GND126 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(382.27 mm, 185.42 mm): Symbol #GND107 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(384.81 mm, 180.34 mm): Symbol C48 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(295.91 mm, 306.07 mm): Symbol #GND129 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(383.54 mm, 185.42 mm): Symbol C62 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(300.99 mm, 302.26 mm): Symbol #GND125 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(407.67 mm, 127.00 mm): Symbol D11 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(401.32 mm, 146.05 mm): Symbol R15 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(379.73 mm, 195.58 mm): Symbol R59 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(386.08 mm, 185.42 mm): Symbol #GND084 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(422.91 mm, 73.66 mm): Symbol U101 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(410.21 mm, 130.81 mm): Symbol C18 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(422.91 mm, 82.55 mm): Symbol U101 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(383.54 mm, 198.12 mm): Symbol D22 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(311.15 mm, 300.99 mm): Symbol D25 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(408.94 mm, 144.78 mm): Symbol #GND0108 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(368.30 mm, 229.87 mm): Symbol C58 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(414.02 mm, 130.81 mm): Symbol C51 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(411.48 mm, 139.70 mm): Symbol C90 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(365.76 mm, 234.95 mm): Symbol #GND103 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(410.21 mm, 144.78 mm): Symbol C89 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(367.03 mm, 234.95 mm): Symbol C57 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(384.81 mm, 207.01 mm): Symbol R74 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(412.75 mm, 144.78 mm): Symbol #GND091 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(369.57 mm, 234.95 mm): Symbol #GND104 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(412.75 mm, 152.40 mm): Symbol D12 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(402.59 mm, 180.34 mm): Symbol D8 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(407.67 mm, 168.91 mm): Symbol R61 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(422.91 mm, 129.54 mm): Symbol R21 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(337.82 mm, 285.75 mm): Symbol R94 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(412.75 mm, 162.56 mm): Symbol R49 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(422.91 mm, 134.62 mm): Symbol #GND055 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(426.72 mm, 129.54 mm): Symbol D10 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(408.94 mm, 180.34 mm): Symbol R70 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(429.26 mm, 133.35 mm): Symbol C31 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(337.82 mm, 297.18 mm): Symbol R95 [res]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(443.23 mm, 81.28 mm): Horizontal Wire, length 13.97 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(420.37 mm, 173.99 mm): Symbol D14 [diode]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(445.77 mm, 95.25 mm): Horizontal Wire, length 3.81 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(339.09 mm, 304.80 mm): Symbol #GND130 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(448.31 mm, 93.98 mm): Symbol R82 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(448.31 mm, 101.60 mm): Symbol R85 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(410.21 mm, 210.82 mm): Symbol R73 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(427.99 mm, 175.26 mm): Symbol R23 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(449.58 mm, 109.22 mm): Symbol #GND117 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(356.87 mm, 297.18 mm): Symbol U106 [CD4066_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(447.04 mm, 127.00 mm): Symbol U104 [74HC14_conv]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(339.09 mm, 281.94 mm): Horizontal Wire, length 34.29 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(458.47 mm, 93.98 mm): Symbol R84 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(458.47 mm, 101.60 mm): Symbol R83 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(365.76 mm, 297.18 mm): Symbol C67 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(452.12 mm, 137.16 mm): Symbol D15 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(459.74 mm, 109.22 mm): Symbol #GND114 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(454.66 mm, 130.81 mm): Symbol R26 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(377.19 mm, 287.02 mm): Symbol R96 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(370.84 mm, 295.91 mm): Symbol R98 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(447.04 mm, 163.83 mm): Symbol R62 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(452.12 mm, 154.94 mm): Symbol C9 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(450.85 mm, 158.75 mm): Symbol R79 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(453.39 mm, 154.94 mm): Symbol #GND112 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(454.66 mm, 158.75 mm): Symbol R78 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(377.19 mm, 299.72 mm): Symbol R97 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(464.82 mm, 130.81 mm): Symbol C19 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(472.44 mm, 100.33 mm): Symbol U21 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(468.63 mm, 121.92 mm): Symbol D1 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(472.44 mm, 107.95 mm): Symbol #GND116 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(464.82 mm, 138.43 mm): Symbol R51 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(382.27 mm, 299.72 mm): Symbol C68 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(388.62 mm, 293.37 mm): Symbol U24 [OpAmps/opamp2]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(392.43 mm, 288.29 mm): Symbol C66 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(457.20 mm, 167.64 mm): Symbol D7 [diode]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(468.63 mm, 123.19 mm): Horizontal Wire, length 2.54 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(469.90 mm, 129.54 mm): Symbol #GND056 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(378.46 mm, 307.34 mm): Symbol #GND133 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(478.79 mm, 100.33 mm): Symbol #GND115 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(480.06 mm, 95.25 mm): Symbol C28 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(449.58 mm, 194.31 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(383.54 mm, 304.80 mm): Symbol #GND135 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(477.52 mm, 110.49 mm): Symbol R86 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(393.70 mm, 293.37 mm): Symbol #GND132 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(388.62 mm, 300.99 mm): Symbol #GND131 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(452.12 mm, 199.39 mm): Symbol C50 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(483.87 mm, 106.68 mm): Symbol D24 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(455.93 mm, 195.58 mm): Symbol U102 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(452.12 mm, 207.01 mm): Symbol C16 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(435.61 mm, 240.03 mm): Symbol C60 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(468.63 mm, 170.18 mm): Symbol U102 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(398.78 mm, 299.72 mm): Symbol D26 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(467.36 mm, 176.53 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(367.03 mm, 339.09 mm): Symbol C99 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(440.69 mm, 240.03 mm): Symbol C61 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(448.31 mm, 229.87 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(368.30 mm, 344.17 mm): Symbol #GND0158 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(461.01 mm, 207.01 mm): Symbol R48 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(464.82 mm, 207.01 mm): Symbol D9 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(379.73 mm, 340.36 mm): Symbol U101 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(454.66 mm, 231.14 mm): Symbol U103 [74HC00_conv]
+[missing_input_pin]: Symbol U103 has input pins in units [ C, D ] that are not placed
+    ; warning
+    @(454.66 mm, 231.14 mm): Symbol U103 [74HC00_conv]
+[missing_unit]: Symbol U103 has unplaced units [ C, D ]
+    ; warning
+    @(454.66 mm, 231.14 mm): Symbol U103 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(466.09 mm, 208.28 mm): Symbol C6 [cap]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(468.63 mm, 208.28 mm): Horizontal Wire, length 1.27 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(454.66 mm, 238.76 mm): Symbol R72 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(467.36 mm, 213.36 mm): Symbol #GND106 [GND]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(452.12 mm, 251.46 mm): Horizontal Wire, length 2.54 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(455.93 mm, 247.65 mm): Symbol D21 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(453.39 mm, 252.73 mm): Symbol C25 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(396.24 mm, 339.09 mm): Symbol C98 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(454.66 mm, 259.08 mm): Symbol #GND105 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(397.51 mm, 344.17 mm): Symbol #GND0157 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(483.87 mm, 208.28 mm): Symbol C8 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(482.60 mm, 212.09 mm): Symbol R64 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(485.14 mm, 208.28 mm): Symbol #GND111 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(486.41 mm, 212.09 mm): Symbol R63 [res]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(408.94 mm, 340.36 mm): Symbol U102 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(482.60 mm, 232.41 mm): Symbol U105 [74HC14_conv]
+[missing_input_pin]: Symbol U105 has input pins in units [ C, D, E, . ] that are not placed
+    ; warning
+    @(482.60 mm, 232.41 mm): Symbol U105 [74HC14_conv]
+[missing_unit]: Symbol U105 has unplaced units [ C, D, E, . ]
+    ; warning
+    @(482.60 mm, 232.41 mm): Symbol U105 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(488.95 mm, 220.98 mm): Symbol D5 [diode]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(488.95 mm, 233.68 mm): Symbol U103 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(426.72 mm, 339.09 mm): Symbol C97 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(427.99 mm, 344.17 mm): Symbol #GND0156 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(439.42 mm, 340.36 mm): Symbol U103 [74HC00_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(457.20 mm, 339.09 mm): Symbol C96 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(458.47 mm, 344.17 mm): Symbol #GND0134 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(469.90 mm, 340.36 mm): Symbol U104 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(486.41 mm, 337.82 mm): Symbol C95 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(487.68 mm, 342.90 mm): Symbol #GND0128 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(499.11 mm, 340.36 mm): Symbol U105 [74HC14_conv]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(516.89 mm, 339.09 mm): Symbol C94 [cap]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(518.16 mm, 344.17 mm): Symbol #GND0122 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'ltspice'
+    ; warning
+    @(529.59 mm, 340.36 mm): Symbol U106 [CD4066_conv]
+
+ ** ERC messages: 430  Errors 8  Warnings 422
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
