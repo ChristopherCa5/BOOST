@@ -1,0 +1,30 @@
+ERC report (2026-09-02T12:19:21, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[missing_input_pin]: Symbol U106 has input pins in units [ D ] that are not placed
+    ; warning
+    @(356.87 mm, 297.18 mm): Symbol U106 [CD4066_conv]
+[missing_unit]: Symbol U106 has unplaced units [ D ]
+    ; warning
+    @(356.87 mm, 297.18 mm): Symbol U106 [CD4066_conv]
+[missing_input_pin]: Symbol U103 has input pins in units [ C, D ] that are not placed
+    ; warning
+    @(488.95 mm, 233.68 mm): Symbol U103 [74HC00_conv]
+[missing_unit]: Symbol U103 has unplaced units [ C, D ]
+    ; warning
+    @(488.95 mm, 233.68 mm): Symbol U103 [74HC00_conv]
+[missing_input_pin]: Symbol U105 has input pins in units [ C, D, E, . ] that are not placed
+    ; warning
+    @(499.11 mm, 340.36 mm): Symbol U105 [74HC14_conv]
+[missing_unit]: Symbol U105 has unplaced units [ C, D, E, . ]
+    ; warning
+    @(499.11 mm, 340.36 mm): Symbol U105 [74HC14_conv]
+
+ ** ERC messages: 6  Errors 0  Warnings 6
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

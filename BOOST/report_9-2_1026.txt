@@ -1,0 +1,3461 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'D11:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C68:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C89:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C100:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J6:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'D14:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C76:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C83:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C95:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'M10:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D8:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C61:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'M6:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:CP_Elec_10x12.5'.
+Info: Processing symbol 'D20:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C69:Capacitor_SMD:CP_Elec_10x12.5'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D25:Diode_SMD:D_SOD-323'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C90:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'M8:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C77:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D5:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C30:Capacitor_SMD:CP_Elec_6.3x5.4'.
+Info: Processing symbol 'C84:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C62:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J3:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C101:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C96:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C70:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'J9:Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_2512_6332Metric'.
+Info: Processing symbol 'M9:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D23:Diode_SMD:D_SOD-323'.
+Info: Processing symbol 'D12:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C7:Capacitor_SMD:CP_Elec_6.3x5.4'.
+Info: Processing symbol 'C78:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C63:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C91:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'M7:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C85:Capacitor_SMD:CP_Elec_10x12.5'.
+Info: Processing symbol 'J5:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C71:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'D9:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C55:Capacitor_SMD:CP_Elec_6.3x5.4'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D15:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C97:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'C64:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C102:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C79:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J8:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'D6:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C92:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C56:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C72:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C86:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'M3:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D21:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D26:Diode_SMD:D_SOD-323'.
+Info: Processing symbol 'J2:MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom'.
+Info: Processing symbol 'M2:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C65:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C80:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C98:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'M4:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C73:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C48:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D13:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D3:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C87:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C93:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C103:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D10:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C66:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D24:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J7:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C81:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D19:Diode_SMD:D_SMC'.
+Info: Processing symbol 'C74:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'D7:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'J4:TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C99:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'M1:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C88:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C59:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C67:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'M5:Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C94:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D22:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'C82:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C75:Capacitor_SMD:CP_Elec_10x10.5'.
+Info: Processing symbol 'L1:CSCF3218-6R8MC:IND_CSCF3218-6R8MC'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C104:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D4:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'J1:MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_2512_6332Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_2512_6332Metric'.
+Info: Processing symbol 'R53:Resistor_SMD:R_2512_6332Metric'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R56:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R57:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R58:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R59:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R60:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R61:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R62:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R63:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R65:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R66:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R67:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R68:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R69:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R70:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R71:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R73:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R75:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R76:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R77:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R78:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R79:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R80:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R81:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R82:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R83:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R84:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R85:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R86:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R87:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R88:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R89:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R90:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R91:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R92:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R93:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R94:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R95:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R96:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R97:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R98:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R99:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R100:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R101:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R102:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R103:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R104:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-89-3'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U6:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U7:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U8:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Info: Processing symbol 'U10:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Info: Processing symbol 'U11:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U12:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U13:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U14:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U15:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Info: Processing symbol 'U16:Package_TO_SOT_SMD:TO-263-3_TabPin2'.
+Info: Processing symbol 'U17:Package_TO_SOT_SMD:SOT-89-3'.
+Info: Processing symbol 'U18:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'U19:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Info: Processing symbol 'U21:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U22:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U23:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U24:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U25:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U26:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'U28:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'U101:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U102:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U103:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U104:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U105:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U106:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Updated C14 sheetfile to 'BOOST.kicad_sch'.
+Connected C14 pin 2 to GND.
+Add net Net-(Q1-E).
+Connected C14 pin 1 to Net-(Q1-E).
+Updated C14 unit metadata.
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0603_1608Metric to 100p.
+Updated C15 symbol association from  to /f399f6e2-cf2a-460c-8d73-2fae64caeeef.
+Updated C15 fields.
+Updated C15 sheetname to '/'.
+Updated C15 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D4--).
+Connected C15 pin 1 to Net-(D4--).
+Connected C15 pin 2 to GND.
+Updated C15 unit metadata.
+Added C16 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C16.
+Changed C16 value from C_1206_3216Metric to 2.2µ.
+Updated C16 symbol association from  to /4c018e47-2aae-4829-9d69-1bc2b790b595.
+Updated C16 fields.
+Updated C16 sheetname to '/'.
+Updated C16 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U10-VDDA).
+Connected C16 pin 1 to Net-(U10-VDDA).
+Add net m3_source.
+Connected C16 pin 2 to m3_source.
+Updated C16 unit metadata.
+Added C17 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C17.
+Changed C17 value from C_0603_1608Metric to 330p.
+Updated C17 symbol association from  to /f0055236-d0ae-4a03-8154-52f1a1952f0e.
+Updated C17 fields.
+Updated C17 sheetname to '/'.
+Updated C17 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(C17-Pad2).
+Connected C17 pin 2 to Net-(C17-Pad2).
+Connected C17 pin 1 to GND.
+Updated C17 unit metadata.
+Added C18 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C18.
+Changed C18 value from C_1206_3216Metric to 2.2µ.
+Updated C18 symbol association from  to /729d77fd-64a4-4055-8cac-228a040310c4.
+Updated C18 fields.
+Updated C18 sheetname to '/'.
+Updated C18 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U15-VDDA).
+Connected C18 pin 1 to Net-(U15-VDDA).
+Add net m2_source.
+Connected C18 pin 2 to m2_source.
+Updated C18 unit metadata.
+Added C19 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0603_1608Metric to 330p.
+Updated C19 symbol association from  to /59f0ee94-a8c5-4297-a23b-bd3d9e7c7c1b.
+Updated C19 fields.
+Updated C19 sheetname to '/'.
+Updated C19 sheetfile to 'BOOST.kicad_sch'.
+Connected C19 pin 2 to GND.
+Add net Net-(C19-Pad1).
+Connected C19 pin 1 to Net-(C19-Pad1).
+Updated C19 unit metadata.
+Added C20 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_0603_1608Metric to 100n.
+Updated C20 symbol association from  to /61d37900-de50-4f45-8296-d7da4e4aa6e4.
+Updated C20 fields.
+Updated C20 sheetname to '/'.
+Updated C20 sheetfile to 'BOOST.kicad_sch'.
+Connected C20 pin 2 to GND.
+Add net analog_5V.
+Connected C20 pin 1 to analog_5V.
+Updated C20 unit metadata.
+Added C21 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_0805_2012Metric to 1µ.
+Updated C21 symbol association from  to /99024896-3faf-4084-9ef2-fb8bf4e20e0d.
+Updated C21 fields.
+Updated C21 sheetname to '/'.
+Updated C21 sheetfile to 'BOOST.kicad_sch'.
+Connected C21 pin 1 to analog_5V.
+Connected C21 pin 2 to GND.
+Updated C21 unit metadata.
+Added C22 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_0603_1608Metric to 100n.
+Updated C22 symbol association from  to /afecc926-af72-4196-ae19-3c5ec2618ab0.
+Updated C22 fields.
+Updated C22 sheetname to '/'.
+Updated C22 sheetfile to 'BOOST.kicad_sch'.
+Connected C22 pin 1 to 5V.
+Connected C22 pin 2 to GND.
+Updated C22 unit metadata.
+Added C23 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_0603_1608Metric to 100n.
+Updated C23 symbol association from  to /dd6cf623-709f-4f8b-8e05-6b56e46b1e25.
+Updated C23 fields.
+Updated C23 sheetname to '/'.
+Updated C23 sheetfile to 'BOOST.kicad_sch'.
+Connected C23 pin 1 to 5V.
+Connected C23 pin 2 to GND.
+Updated C23 unit metadata.
+Added C24 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_0603_1608Metric to 100n.
+Updated C24 symbol association from  to /90dc2f3d-4f07-4a5c-8dd9-f0cafb43f38d.
+Updated C24 fields.
+Updated C24 sheetname to '/'.
+Updated C24 sheetfile to 'BOOST.kicad_sch'.
+Connected C24 pin 1 to 5V.
+Connected C24 pin 2 to GND.
+Updated C24 unit metadata.
+Added C25 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C25.
+Changed C25 value from C_0805_2012Metric to 1µ.
+Updated C25 symbol association from  to /50485665-3c39-44b5-8f18-60916396cef5.
+Updated C25 fields.
+Updated C25 sheetname to '/'.
+Updated C25 sheetfile to 'BOOST.kicad_sch'.
+Connected C25 pin 1 to 12V.
+Connected C25 pin 2 to GND.
+Updated C25 unit metadata.
+Added C26 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C26.
+Changed C26 value from C_0603_1608Metric to 100n.
+Updated C26 symbol association from  to /8d7a1765-f83a-4e45-aa2f-a7eccbd1a6e3.
+Updated C26 fields.
+Updated C26 sheetname to '/'.
+Updated C26 sheetfile to 'BOOST.kicad_sch'.
+Connected C26 pin 1 to 5V.
+Connected C26 pin 2 to GND.
+Updated C26 unit metadata.
+Added C28 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C28.
+Changed C28 value from C_0603_1608Metric to 100n.
+Updated C28 symbol association from  to /97b5ff6f-6f6b-4b47-acf3-415e3c8b2a8f.
+Updated C28 fields.
+Updated C28 sheetname to '/'.
+Updated C28 sheetfile to 'BOOST.kicad_sch'.
+Connected C28 pin 1 to 5V.
+Connected C28 pin 2 to GND.
+Updated C28 unit metadata.
+Added C29 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C29.
+Changed C29 value from C_0603_1608Metric to 100n.
+Updated C29 symbol association from  to /7557e1d4-c56c-4b1f-9f32-2e306397b478.
+Updated C29 fields.
+Updated C29 sheetname to '/'.
+Updated C29 sheetfile to 'BOOST.kicad_sch'.
+Connected C29 pin 2 to GND.
+Connected C29 pin 1 to 5V.
+Updated C29 unit metadata.
+Added C30 (footprint 'Capacitor_SMD:CP_Elec_6.3x5.4').
+Changed REF** reference designator to C30.
+Changed C30 value from CP_Elec_6.3x5.4 to 47µ.
+Updated C30 symbol association from  to /8c7da8e0-e748-4387-a8f4-694c2eab7d7d.
+Updated C30 fields.
+Updated C30 sheetname to '/'.
+Updated C30 sheetfile to 'BOOST.kicad_sch'.
+Connected C30 pin 1 to 12V.
+Connected C30 pin 2 to GND.
+Updated C30 unit metadata.
+Added C31 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C31.
+Changed C31 value from C_0805_2012Metric to 1µ.
+Updated C31 symbol association from  to /a9a2e5bc-aafd-416d-b8bd-2d7e7994afd4.
+Updated C31 fields.
+Updated C31 sheetname to '/'.
+Updated C31 sheetfile to 'BOOST.kicad_sch'.
+Connected C31 pin 2 to GND.
+Connected C31 pin 1 to 12V.
+Updated C31 unit metadata.
+Added C32 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C32.
+Changed C32 value from C_0603_1608Metric to 100n.
+Updated C32 symbol association from  to /2836b23c-7ed8-4594-b493-3829970a3bf6.
+Updated C32 fields.
+Updated C32 sheetname to '/'.
+Updated C32 sheetfile to 'BOOST.kicad_sch'.
+Connected C32 pin 1 to analog_5V.
+Connected C32 pin 2 to GND.
+Updated C32 unit metadata.
+Added C33 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C33.
+Changed C33 value from C_0603_1608Metric to 100n.
+Updated C33 symbol association from  to /beaea767-4480-412b-b2e0-66f5acd0da64.
+Updated C33 fields.
+Updated C33 sheetname to '/'.
+Updated C33 sheetfile to 'BOOST.kicad_sch'.
+Connected C33 pin 1 to analog_5V.
+Connected C33 pin 2 to GND.
+Updated C33 unit metadata.
+Added C34 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C34.
+Changed C34 value from C_0603_1608Metric to 100n.
+Updated C34 symbol association from  to /fc054014-b792-4a7a-a572-574e049a6a31.
+Updated C34 fields.
+Updated C34 sheetname to '/'.
+Updated C34 sheetfile to 'BOOST.kicad_sch'.
+Connected C34 pin 1 to analog_5V.
+Connected C34 pin 2 to GND.
+Updated C34 unit metadata.
+Added C35 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C35.
+Changed C35 value from C_0603_1608Metric to 100n.
+Updated C35 symbol association from  to /dba1a1d1-6452-4978-b6d7-e0a73c7e431a.
+Updated C35 fields.
+Updated C35 sheetname to '/'.
+Updated C35 sheetfile to 'BOOST.kicad_sch'.
+Connected C35 pin 1 to analog_5V.
+Connected C35 pin 2 to GND.
+Updated C35 unit metadata.
+Added C36 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C36.
+Changed C36 value from C_0603_1608Metric to 100n.
+Updated C36 symbol association from  to /36e4ea89-d1a8-440d-9300-97ff45a09ee7.
+Updated C36 fields.
+Updated C36 sheetname to '/'.
+Updated C36 sheetfile to 'BOOST.kicad_sch'.
+Connected C36 pin 1 to GND.
+Connected C36 pin 2 to analog_5V.
+Updated C36 unit metadata.
+Added C37 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C37.
+Changed C37 value from C_0603_1608Metric to 100n.
+Updated C37 symbol association from  to /97a997cb-784e-4236-bdef-cea405a1372a.
+Updated C37 fields.
+Updated C37 sheetname to '/'.
+Updated C37 sheetfile to 'BOOST.kicad_sch'.
+Connected C37 pin 1 to GND.
+Connected C37 pin 2 to analog_5V.
+Updated C37 unit metadata.
+Added C38 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C38.
+Changed C38 value from C_0603_1608Metric to 100n.
+Updated C38 symbol association from  to /1384ff35-8202-4785-af95-d2ea7eb348e5.
+Updated C38 fields.
+Updated C38 sheetname to '/'.
+Updated C38 sheetfile to 'BOOST.kicad_sch'.
+Connected C38 pin 2 to analog_5V.
+Connected C38 pin 1 to GND.
+Updated C38 unit metadata.
+Added C39 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C39.
+Changed C39 value from C_1210_3225Metric to 10µ.
+Updated C39 symbol association from  to /74c0de40-b7e0-4b0e-9f97-7c9c80d0b536.
+Updated C39 fields.
+Updated C39 sheetname to '/'.
+Updated C39 sheetfile to 'BOOST.kicad_sch'.
+Connected C39 pin 2 to GND.
+Connected C39 pin 1 to 5V.
+Updated C39 unit metadata.
+Added C40 (footprint 'Capacitor_SMD:CP_Elec_10x12.5').
+Changed REF** reference designator to C40.
+Changed C40 value from CP_Elec_10x12.5 to 680µ.
+Updated C40 symbol association from  to /b4396b4c-2cb0-42cd-b69a-957dacbebc12.
+Updated C40 fields.
+Updated C40 sheetname to '/'.
+Updated C40 sheetfile to 'BOOST.kicad_sch'.
+Connected C40 pin 2 to GND.
+Add net Vin.
+Connected C40 pin 1 to Vin.
+Updated C40 unit metadata.
+Added C42 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C42.
+Changed C42 value from C_0603_1608Metric to 100n.
+Updated C42 symbol association from  to /7bd35243-8119-4daf-be1c-b10714d68436.
+Updated C42 fields.
+Updated C42 sheetname to '/'.
+Updated C42 sheetfile to 'BOOST.kicad_sch'.
+Add net .1Vref_3.
+Connected C42 pin 1 to .1Vref_3.
+Connected C42 pin 2 to GND.
+Updated C42 unit metadata.
+Added C43 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C43.
+Changed C43 value from C_0603_1608Metric to 100n.
+Updated C43 symbol association from  to /800a717f-0e01-49f1-8730-44ce683f6c05.
+Updated C43 fields.
+Updated C43 sheetname to '/'.
+Updated C43 sheetfile to 'BOOST.kicad_sch'.
+Connected C43 pin 2 to GND.
+Add net .1Vref_2.
+Connected C43 pin 1 to .1Vref_2.
+Updated C43 unit metadata.
+Added C46 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C46.
+Changed C46 value from C_0603_1608Metric to 100n.
+Updated C46 symbol association from  to /ac2d7dde-b07e-4dad-8eb8-8d4ac8df2f93.
+Updated C46 fields.
+Updated C46 sheetname to '/'.
+Updated C46 sheetfile to 'BOOST.kicad_sch'.
+Add net .1Vref_1.
+Connected C46 pin 1 to .1Vref_1.
+Connected C46 pin 2 to GND.
+Updated C46 unit metadata.
+Added C47 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C47.
+Changed C47 value from C_0603_1608Metric to 10u.
+Updated C47 symbol association from  to /38a37a51-0f90-4c37-8516-e2d8469d1f70.
+Updated C47 fields.
+Updated C47 sheetname to '/'.
+Updated C47 sheetfile to 'BOOST.kicad_sch'.
+Connected C47 pin 2 to GND.
+Add net Vref_3.
+Connected C47 pin 1 to Vref_3.
+Updated C47 unit metadata.
+Added C48 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C48.
+Changed C48 value from C_0603_1608Metric to 100n.
+Updated C48 symbol association from  to /f1ea5eb5-eee2-4d78-a404-f45d337baabe.
+Updated C48 fields.
+Updated C48 sheetname to '/'.
+Updated C48 sheetfile to 'BOOST.kicad_sch'.
+Connected C48 pin 2 to GND.
+Connected C48 pin 1 to 5V.
+Updated C48 unit metadata.
+Added C49 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C49.
+Changed C49 value from C_1206_3216Metric to 100n.
+Updated C49 symbol association from  to /2402081e-15bf-42b5-90e7-253d9634ebba.
+Updated C49 fields.
+Updated C49 sheetname to '/'.
+Updated C49 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U106A-B).
+Connected C49 pin 1 to Net-(U106A-B).
+Add net Net-(D23-+).
+Connected C49 pin 2 to Net-(D23-+).
+Updated C49 unit metadata.
+Added C50 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C50.
+Changed C50 value from C_0603_1608Metric to 100n.
+Updated C50 symbol association from  to /235ccc95-c397-4639-9003-6ce8578e7c3a.
+Updated C50 fields.
+Updated C50 sheetname to '/'.
+Updated C50 sheetfile to 'BOOST.kicad_sch'.
+Connected C50 pin 1 to Net-(U10-VDDA).
+Connected C50 pin 2 to m3_source.
+Updated C50 unit metadata.
+Added C51 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C51.
+Changed C51 value from C_0603_1608Metric to 100n.
+Updated C51 symbol association from  to /7d021a09-b233-49ae-91dc-c3c43833f275.
+Updated C51 fields.
+Updated C51 sheetname to '/'.
+Updated C51 sheetfile to 'BOOST.kicad_sch'.
+Connected C51 pin 1 to Net-(U15-VDDA).
+Connected C51 pin 2 to m2_source.
+Updated C51 unit metadata.
+Added C52 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C52.
+Changed C52 value from C_0603_1608Metric to 100n.
+Updated C52 symbol association from  to /d82e85d7-0fdb-4c30-9e01-7b598ee5f754.
+Updated C52 fields.
+Updated C52 sheetname to '/'.
+Updated C52 sheetfile to 'BOOST.kicad_sch'.
+Connected C52 pin 1 to 5V.
+Connected C52 pin 2 to GND.
+Updated C52 unit metadata.
+Added C53 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C53.
+Changed C53 value from C_0603_1608Metric to 100n.
+Updated C53 symbol association from  to /5fbe2afb-3c24-4e2c-8592-b26e6cee843c.
+Updated C53 fields.
+Updated C53 sheetname to '/'.
+Updated C53 sheetfile to 'BOOST.kicad_sch'.
+Connected C53 pin 1 to GND.
+Connected C53 pin 2 to 5V.
+Updated C53 unit metadata.
+Added C54 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C54.
+Changed C54 value from C_0603_1608Metric to 100n.
+Updated C54 symbol association from  to /59716a7f-9ccd-4a25-9486-ab0af40cc71e.
+Updated C54 fields.
+Updated C54 sheetname to '/'.
+Updated C54 sheetfile to 'BOOST.kicad_sch'.
+Connected C54 pin 1 to 5V.
+Connected C54 pin 2 to GND.
+Updated C54 unit metadata.
+Added C55 (footprint 'Capacitor_SMD:CP_Elec_6.3x5.4').
+Changed REF** reference designator to C55.
+Changed C55 value from CP_Elec_6.3x5.4 to 47µ.
+Updated C55 symbol association from  to /a3eaa37e-9091-45cb-86ab-147df737b3f8.
+Updated C55 fields.
+Updated C55 sheetname to '/'.
+Updated C55 sheetfile to 'BOOST.kicad_sch'.
+Connected C55 pin 1 to analog_5V.
+Connected C55 pin 2 to GND.
+Updated C55 unit metadata.
+Added C56 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C56.
+Changed C56 value from C_1210_3225Metric to 10µ.
+Updated C56 symbol association from  to /b6832b5c-4072-4931-bd4d-f991db92a33d.
+Updated C56 fields.
+Updated C56 sheetname to '/'.
+Updated C56 sheetfile to 'BOOST.kicad_sch'.
+Connected C56 pin 2 to GND.
+Connected C56 pin 1 to analog_5V.
+Updated C56 unit metadata.
+Added C57 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C57.
+Changed C57 value from C_0805_2012Metric to 1µ.
+Updated C57 symbol association from  to /0ff1db7d-89ae-4715-a240-995ee21daf21.
+Updated C57 fields.
+Updated C57 sheetname to '/'.
+Updated C57 sheetfile to 'BOOST.kicad_sch'.
+Connected C57 pin 1 to GND.
+Connected C57 pin 2 to 5V.
+Updated C57 unit metadata.
+Added C58 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C58.
+Changed C58 value from C_0603_1608Metric to 100n.
+Updated C58 symbol association from  to /3b624b8d-a2a3-4dfb-8625-0f44de2e9912.
+Updated C58 fields.
+Updated C58 sheetname to '/'.
+Updated C58 sheetfile to 'BOOST.kicad_sch'.
+Connected C58 pin 2 to GND.
+Connected C58 pin 1 to 5V.
+Updated C58 unit metadata.
+Added C59 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C59.
+Changed C59 value from C_0603_1608Metric to 100n.
+Updated C59 symbol association from  to /b60eb93d-acbd-4d45-9cb4-55b3d4ce4600.
+Updated C59 fields.
+Updated C59 sheetname to '/'.
+Updated C59 sheetfile to 'BOOST.kicad_sch'.
+Connected C59 pin 2 to GND.
+Add net Net-(U22-In+).
+Connected C59 pin 1 to Net-(U22-In+).
+Updated C59 unit metadata.
+Added C60 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C60.
+Changed C60 value from C_1206_3216Metric to 2.2µ.
+Updated C60 symbol association from  to /3a03edcd-b78e-4937-82f9-c6b8e3adf20b.
+Updated C60 fields.
+Updated C60 sheetname to '/'.
+Updated C60 sheetfile to 'BOOST.kicad_sch'.
+Add net m4_source.
+Connected C60 pin 2 to m4_source.
+Add net Net-(U8-VDDA).
+Connected C60 pin 1 to Net-(U8-VDDA).
+Updated C60 unit metadata.
+Added C61 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C61.
+Changed C61 value from C_0603_1608Metric to 100n.
+Updated C61 symbol association from  to /8d3e536f-4979-4591-bcd9-cd30bb692c41.
+Updated C61 fields.
+Updated C61 sheetname to '/'.
+Updated C61 sheetfile to 'BOOST.kicad_sch'.
+Connected C61 pin 1 to Net-(U8-VDDA).
+Connected C61 pin 2 to m4_source.
+Updated C61 unit metadata.
+Added C62 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C62.
+Changed C62 value from C_0805_2012Metric to 1µ.
+Updated C62 symbol association from  to /50cffef9-889c-417b-9c1c-3dc9ce0cf9c7.
+Updated C62 fields.
+Updated C62 sheetname to '/'.
+Updated C62 sheetfile to 'BOOST.kicad_sch'.
+Connected C62 pin 1 to GND.
+Connected C62 pin 2 to 5V.
+Updated C62 unit metadata.
+Added C63 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C63.
+Changed C63 value from C_0603_1608Metric to 100n.
+Updated C63 symbol association from  to /13572c24-561f-42f9-82de-68979960f1b2.
+Updated C63 fields.
+Updated C63 sheetname to '/'.
+Updated C63 sheetfile to 'BOOST.kicad_sch'.
+Connected C63 pin 2 to GND.
+Connected C63 pin 1 to analog_5V.
+Updated C63 unit metadata.
+Added C64 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C64.
+Changed C64 value from C_1206_3216Metric to 100n.
+Updated C64 symbol association from  to /bcb4d628-6099-473c-b798-31ad2712b7e3.
+Updated C64 fields.
+Updated C64 sheetname to '/'.
+Updated C64 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D25-+).
+Connected C64 pin 2 to Net-(D25-+).
+Add net Net-(U106B-B).
+Connected C64 pin 1 to Net-(U106B-B).
+Updated C64 unit metadata.
+Added C65 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C65.
+Changed C65 value from C_0603_1608Metric to 100n.
+Updated C65 symbol association from  to /e166ef6a-139a-4d4b-ac8b-a88bf7f2cfe4.
+Updated C65 fields.
+Updated C65 sheetname to '/'.
+Updated C65 sheetfile to 'BOOST.kicad_sch'.
+Connected C65 pin 2 to GND.
+Add net Net-(U23-In+).
+Connected C65 pin 1 to Net-(U23-In+).
+Updated C65 unit metadata.
+Added C66 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C66.
+Changed C66 value from C_0603_1608Metric to 100n.
+Updated C66 symbol association from  to /1de91adb-af2d-4e0f-a9db-86e01d2f1447.
+Updated C66 fields.
+Updated C66 sheetname to '/'.
+Updated C66 sheetfile to 'BOOST.kicad_sch'.
+Connected C66 pin 2 to GND.
+Connected C66 pin 1 to analog_5V.
+Updated C66 unit metadata.
+Added C67 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C67.
+Changed C67 value from C_1206_3216Metric to 100n.
+Updated C67 symbol association from  to /f18147f6-bb72-4c94-89c0-19877f89f765.
+Updated C67 fields.
+Updated C67 sheetname to '/'.
+Updated C67 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U106C-B).
+Connected C67 pin 1 to Net-(U106C-B).
+Add net Net-(D26-+).
+Connected C67 pin 2 to Net-(D26-+).
+Updated C67 unit metadata.
+Added C68 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C68.
+Changed C68 value from C_0603_1608Metric to 100n.
+Updated C68 symbol association from  to /c47761f7-95ef-43e5-b022-b1eb7971c742.
+Updated C68 fields.
+Updated C68 sheetname to '/'.
+Updated C68 sheetfile to 'BOOST.kicad_sch'.
+Connected C68 pin 2 to GND.
+Add net Net-(U24-In+).
+Connected C68 pin 1 to Net-(U24-In+).
+Updated C68 unit metadata.
+Added C69 (footprint 'Capacitor_SMD:CP_Elec_10x12.5').
+Changed REF** reference designator to C69.
+Changed C69 value from CP_Elec_10x12.5 to 680µ.
+Updated C69 symbol association from  to /986a2857-4a08-4158-ab25-e871786d6d34.
+Updated C69 fields.
+Updated C69 sheetname to '/'.
+Updated C69 sheetfile to 'BOOST.kicad_sch'.
+Connected C69 pin 2 to GND.
+Connected C69 pin 1 to Vin.
+Updated C69 unit metadata.
+Added C70 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C70.
+Changed C70 value from CP_Elec_10x10.5 to 220µ.
+Updated C70 symbol association from  to /03bb4d73-c0fb-4cf8-8489-163436c60739.
+Updated C70 fields.
+Updated C70 sheetname to '/'.
+Updated C70 sheetfile to 'BOOST.kicad_sch'.
+Connected C70 pin 1 to Vout_1.
+Connected C70 pin 2 to GND.
+Updated C70 unit metadata.
+Added C71 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C71.
+Changed C71 value from CP_Elec_10x10.5 to 220µ.
+Updated C71 symbol association from  to /e63bf770-d25c-42f6-b09f-fb4161c12c53.
+Updated C71 fields.
+Updated C71 sheetname to '/'.
+Updated C71 sheetfile to 'BOOST.kicad_sch'.
+Connected C71 pin 2 to GND.
+Connected C71 pin 1 to Vout_2.
+Updated C71 unit metadata.
+Added C72 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C72.
+Changed C72 value from C_0805_2012Metric to 100n.
+Updated C72 symbol association from  to /dd5c4c1b-8737-4ff3-8db6-33a50cdba98d.
+Updated C72 fields.
+Updated C72 sheetname to '/'.
+Updated C72 sheetfile to 'BOOST.kicad_sch'.
+Connected C72 pin 1 to Vout_1.
+Connected C72 pin 2 to GND.
+Updated C72 unit metadata.
+Added C73 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C73.
+Changed C73 value from C_1210_3225Metric to 4.7µ.
+Updated C73 symbol association from  to /04b10ca8-740c-4f4e-b263-de5e5c9069cd.
+Updated C73 fields.
+Updated C73 sheetname to '/'.
+Updated C73 sheetfile to 'BOOST.kicad_sch'.
+Connected C73 pin 1 to Vout_2.
+Connected C73 pin 2 to GND.
+Updated C73 unit metadata.
+Added C74 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C74.
+Changed C74 value from CP_Elec_10x10.5 to 220µ.
+Updated C74 symbol association from  to /8284f0cd-fe21-4f48-8e5e-59c16eb114f1.
+Updated C74 fields.
+Updated C74 sheetname to '/'.
+Updated C74 sheetfile to 'BOOST.kicad_sch'.
+Connected C74 pin 1 to Vout_3.
+Connected C74 pin 2 to GND.
+Updated C74 unit metadata.
+Added C75 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C75.
+Changed C75 value from CP_Elec_10x10.5 to 220µ.
+Updated C75 symbol association from  to /06b0c6c9-ee4b-49c5-917a-e4901f299d38.
+Updated C75 fields.
+Updated C75 sheetname to '/'.
+Updated C75 sheetfile to 'BOOST.kicad_sch'.
+Connected C75 pin 1 to Vout_3.
+Connected C75 pin 2 to GND.
+Updated C75 unit metadata.
+Added C76 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C76.
+Changed C76 value from C_0805_2012Metric to 100n.
+Updated C76 symbol association from  to /3a8a8af8-5ffc-4483-802c-49c98c6d3af4.
+Updated C76 fields.
+Updated C76 sheetname to '/'.
+Updated C76 sheetfile to 'BOOST.kicad_sch'.
+Connected C76 pin 1 to Vout_3.
+Connected C76 pin 2 to GND.
+Updated C76 unit metadata.
+Added C77 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C77.
+Changed C77 value from CP_Elec_10x10.5 to 220µ.
+Updated C77 symbol association from  to /3151461d-3c1c-4de5-94d9-7eb32dd3d67c.
+Updated C77 fields.
+Updated C77 sheetname to '/'.
+Updated C77 sheetfile to 'BOOST.kicad_sch'.
+Connected C77 pin 1 to Vout_3.
+Connected C77 pin 2 to GND.
+Updated C77 unit metadata.
+Added C78 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C78.
+Changed C78 value from CP_Elec_10x10.5 to 220µ.
+Updated C78 symbol association from  to /41794211-dcc3-4ce2-8f55-ccb0c0e3de27.
+Updated C78 fields.
+Updated C78 sheetname to '/'.
+Updated C78 sheetfile to 'BOOST.kicad_sch'.
+Connected C78 pin 2 to GND.
+Connected C78 pin 1 to Vout_2.
+Updated C78 unit metadata.
+Added C79 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C79.
+Changed C79 value from C_1210_3225Metric to 10µ.
+Updated C79 symbol association from  to /2dd55058-2cda-4969-a087-515fc2dc58fc.
+Updated C79 fields.
+Updated C79 sheetname to '/'.
+Updated C79 sheetfile to 'BOOST.kicad_sch'.
+Connected C79 pin 2 to GND.
+Connected C79 pin 1 to Vin.
+Updated C79 unit metadata.
+Added C80 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C80.
+Changed C80 value from C_1210_3225Metric to 10µ.
+Updated C80 symbol association from  to /756564c6-f695-4aab-82ff-321b45501be3.
+Updated C80 fields.
+Updated C80 sheetname to '/'.
+Updated C80 sheetfile to 'BOOST.kicad_sch'.
+Connected C80 pin 1 to Vin.
+Connected C80 pin 2 to GND.
+Updated C80 unit metadata.
+Added C81 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Changed REF** reference designator to C81.
+Changed C81 value from C_1210_3225Metric to 10µ.
+Updated C81 symbol association from  to /9bdebf73-9b42-4a69-99cd-0de28f0eb8b9.
+Updated C81 fields.
+Updated C81 sheetname to '/'.
+Updated C81 sheetfile to 'BOOST.kicad_sch'.
+Connected C81 pin 1 to Vin.
+Connected C81 pin 2 to GND.
+Updated C81 unit metadata.
+Added C82 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C82.
+Changed C82 value from C_0603_1608Metric to 100n.
+Updated C82 symbol association from  to /1768046e-0285-4b41-8f2b-afad5e43574b.
+Updated C82 fields.
+Updated C82 sheetname to '/'.
+Updated C82 sheetfile to 'BOOST.kicad_sch'.
+Connected C82 pin 2 to GND.
+Connected C82 pin 1 to Vin.
+Updated C82 unit metadata.
+Added C83 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C83.
+Changed C83 value from C_0603_1608Metric to 100n.
+Updated C83 symbol association from  to /4b5e4bfc-0c53-42f4-b219-b88c3ab2385d.
+Updated C83 fields.
+Updated C83 sheetname to '/'.
+Updated C83 sheetfile to 'BOOST.kicad_sch'.
+Connected C83 pin 1 to Vin.
+Connected C83 pin 2 to GND.
+Updated C83 unit metadata.
+Added C84 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C84.
+Changed C84 value from C_0603_1608Metric to 100n.
+Updated C84 symbol association from  to /9dd5aa3b-3b1f-4ecb-a5a1-68db10bdd670.
+Updated C84 fields.
+Updated C84 sheetname to '/'.
+Updated C84 sheetfile to 'BOOST.kicad_sch'.
+Connected C84 pin 2 to GND.
+Connected C84 pin 1 to Vin.
+Updated C84 unit metadata.
+Added C85 (footprint 'Capacitor_SMD:CP_Elec_10x12.5').
+Changed REF** reference designator to C85.
+Changed C85 value from CP_Elec_10x12.5 to 680µ.
+Updated C85 symbol association from  to /8bb8da11-5787-454b-a252-d4384327abb5.
+Updated C85 fields.
+Updated C85 sheetname to '/'.
+Updated C85 sheetfile to 'BOOST.kicad_sch'.
+Connected C85 pin 1 to Vin.
+Connected C85 pin 2 to GND.
+Updated C85 unit metadata.
+Added C86 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C86.
+Changed C86 value from CP_Elec_10x10.5 to 220µ.
+Updated C86 symbol association from  to /2ac0d167-3e6d-48b1-b9ed-a5b560da8696.
+Updated C86 fields.
+Updated C86 sheetname to '/'.
+Updated C86 sheetfile to 'BOOST.kicad_sch'.
+Connected C86 pin 1 to Vout_1.
+Connected C86 pin 2 to GND.
+Updated C86 unit metadata.
+Added C87 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C87.
+Changed C87 value from CP_Elec_10x10.5 to 220µ.
+Updated C87 symbol association from  to /0289207a-eed0-4929-918c-89a00b4d7f04.
+Updated C87 fields.
+Updated C87 sheetname to '/'.
+Updated C87 sheetfile to 'BOOST.kicad_sch'.
+Connected C87 pin 1 to Vout_2.
+Connected C87 pin 2 to GND.
+Updated C87 unit metadata.
+Added C88 (footprint 'Capacitor_SMD:CP_Elec_10x10.5').
+Changed REF** reference designator to C88.
+Changed C88 value from CP_Elec_10x10.5 to 220µ.
+Updated C88 symbol association from  to /2298c814-c54f-4a09-9b51-2a222a6942f3.
+Updated C88 fields.
+Updated C88 sheetname to '/'.
+Updated C88 sheetfile to 'BOOST.kicad_sch'.
+Connected C88 pin 2 to GND.
+Connected C88 pin 1 to Vout_1.
+Updated C88 unit metadata.
+Added C89 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C89.
+Changed C89 value from C_0805_2012Metric to 1µ.
+Updated C89 symbol association from  to /20db7305-6a7c-4a59-bc01-990d6f0b6ac9.
+Updated C89 fields.
+Updated C89 sheetname to '/'.
+Updated C89 sheetfile to 'BOOST.kicad_sch'.
+Connected C89 pin 2 to 5V.
+Connected C89 pin 1 to GND.
+Updated C89 unit metadata.
+Added C90 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C90.
+Changed C90 value from C_0603_1608Metric to 100n.
+Updated C90 symbol association from  to /8a6f9131-8c98-419b-898b-9e43980bcd4b.
+Updated C90 fields.
+Updated C90 sheetname to '/'.
+Updated C90 sheetfile to 'BOOST.kicad_sch'.
+Connected C90 pin 1 to 5V.
+Connected C90 pin 2 to GND.
+Updated C90 unit metadata.
+Added C91 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C91.
+Changed C91 value from C_0805_2012Metric to 1µ.
+Updated C91 symbol association from  to /b5fd914e-dd5c-4e03-9e67-4e277f113679.
+Updated C91 fields.
+Updated C91 sheetname to '/'.
+Updated C91 sheetfile to 'BOOST.kicad_sch'.
+Connected C91 pin 2 to 5V.
+Connected C91 pin 1 to GND.
+Updated C91 unit metadata.
+Added C92 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C92.
+Changed C92 value from C_0603_1608Metric to 100n.
+Updated C92 symbol association from  to /112b2455-3dd0-4b14-80cc-9b43be7d2c85.
+Updated C92 fields.
+Updated C92 sheetname to '/'.
+Updated C92 sheetfile to 'BOOST.kicad_sch'.
+Connected C92 pin 2 to GND.
+Connected C92 pin 1 to 5V.
+Updated C92 unit metadata.
+Added C93 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C93.
+Changed C93 value from C_0603_1608Metric to 10u.
+Updated C93 symbol association from  to /1e64f7dd-ca7f-4941-ac56-bd496f24b517.
+Updated C93 fields.
+Updated C93 sheetname to '/'.
+Updated C93 sheetfile to 'BOOST.kicad_sch'.
+Connected C93 pin 2 to GND.
+Add net Vref_2.
+Connected C93 pin 1 to Vref_2.
+Updated C93 unit metadata.
+Added C94 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C94.
+Changed C94 value from C_0603_1608Metric to 100n.
+Updated C94 symbol association from  to /2da7d40d-6ece-4c07-a09a-7e89a36f753e.
+Updated C94 fields.
+Updated C94 sheetname to '/'.
+Updated C94 sheetfile to 'BOOST.kicad_sch'.
+Connected C94 pin 2 to GND.
+Connected C94 pin 1 to 5V.
+Updated C94 unit metadata.
+Added C95 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C95.
+Changed C95 value from C_0603_1608Metric to 100n.
+Updated C95 symbol association from  to /5b590d78-6f61-4b23-b4ce-30393ee4a880.
+Updated C95 fields.
+Updated C95 sheetname to '/'.
+Updated C95 sheetfile to 'BOOST.kicad_sch'.
+Connected C95 pin 1 to 5V.
+Connected C95 pin 2 to GND.
+Updated C95 unit metadata.
+Added C96 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C96.
+Changed C96 value from C_0603_1608Metric to 100n.
+Updated C96 symbol association from  to /bea29308-8a6a-42d7-b072-97bf81787847.
+Updated C96 fields.
+Updated C96 sheetname to '/'.
+Updated C96 sheetfile to 'BOOST.kicad_sch'.
+Connected C96 pin 1 to 5V.
+Connected C96 pin 2 to GND.
+Updated C96 unit metadata.
+Added C97 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C97.
+Changed C97 value from C_0603_1608Metric to 100n.
+Updated C97 symbol association from  to /66493d21-ef36-4e84-8c0d-cacd0ef96e95.
+Updated C97 fields.
+Updated C97 sheetname to '/'.
+Updated C97 sheetfile to 'BOOST.kicad_sch'.
+Connected C97 pin 1 to 5V.
+Connected C97 pin 2 to GND.
+Updated C97 unit metadata.
+Added C98 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C98.
+Changed C98 value from C_0603_1608Metric to 100n.
+Updated C98 symbol association from  to /7030b671-f1e3-4047-bff3-8a08fa1f0823.
+Updated C98 fields.
+Updated C98 sheetname to '/'.
+Updated C98 sheetfile to 'BOOST.kicad_sch'.
+Connected C98 pin 1 to 5V.
+Connected C98 pin 2 to GND.
+Updated C98 unit metadata.
+Added C99 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C99.
+Changed C99 value from C_0603_1608Metric to 100n.
+Updated C99 symbol association from  to /ceac4a22-b0e3-4be9-8556-95fa90c35d35.
+Updated C99 fields.
+Updated C99 sheetname to '/'.
+Updated C99 sheetfile to 'BOOST.kicad_sch'.
+Connected C99 pin 2 to GND.
+Connected C99 pin 1 to 5V.
+Updated C99 unit metadata.
+Added C100 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C100.
+Changed C100 value from C_0603_1608Metric to 1n.
+Updated C100 symbol association from  to /a288d8d5-04df-493f-8c41-1523eceaedc1.
+Updated C100 fields.
+Updated C100 sheetname to '/'.
+Updated C100 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U26A-P0B).
+Connected C100 pin 1 to Net-(U26A-P0B).
+Connected C100 pin 2 to GND.
+Updated C100 unit metadata.
+Added C101 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C101.
+Changed C101 value from C_0603_1608Metric to 1n.
+Updated C101 symbol association from  to /6ad42a6e-fc36-42c4-9828-fb73c4690490.
+Updated C101 fields.
+Updated C101 sheetname to '/'.
+Updated C101 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U26B-P1B).
+Connected C101 pin 1 to Net-(U26B-P1B).
+Connected C101 pin 2 to GND.
+Updated C101 unit metadata.
+Added C102 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C102.
+Changed C102 value from C_0603_1608Metric to 1n.
+Updated C102 symbol association from  to /56b7c89e-d146-4888-88c9-97888d1b5fb0.
+Updated C102 fields.
+Updated C102 sheetname to '/'.
+Updated C102 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U26C-P2B).
+Connected C102 pin 1 to Net-(U26C-P2B).
+Connected C102 pin 2 to GND.
+Updated C102 unit metadata.
+Added C103 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C103.
+Changed C103 value from C_0603_1608Metric to 10u.
+Updated C103 symbol association from  to /a031d38c-02aa-4216-af75-ac37631dd765.
+Updated C103 fields.
+Updated C103 sheetname to '/'.
+Updated C103 sheetfile to 'BOOST.kicad_sch'.
+Connected C103 pin 2 to GND.
+Add net Vref_1.
+Connected C103 pin 1 to Vref_1.
+Updated C103 unit metadata.
+Added C104 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C104.
+Changed C104 value from C_0603_1608Metric to 100n.
+Updated C104 symbol association from  to /5e186656-b5d1-4ab1-a3a5-ebf48a31f6b1.
+Updated C104 fields.
+Updated C104 sheetname to '/'.
+Updated C104 sheetfile to 'BOOST.kicad_sch'.
+Connected C104 pin 2 to GND.
+Connected C104 pin 1 to 5V.
+Updated C104 unit metadata.
+Added D1 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SOD-123 to D.
+Updated D1 symbol association from  to /078bd187-2c91-4c15-ae3d-634bbbe27736.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'BOOST.kicad_sch'.
+Add net 0err_hi.
+Connected D1 pin 2 to 0err_hi.
+Add net Net-(D1--).
+Connected D1 pin 1 to Net-(D1--).
+Updated D1 unit metadata.
+Added D2 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D2.
+Changed D2 value from D_SOD-123 to D.
+Updated D2 symbol association from  to /ec1f11bd-6325-4f40-a77a-f78592b11934.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D2--).
+Connected D2 pin 1 to Net-(D2--).
+Add net GATE_M7.
+Connected D2 pin 2 to GATE_M7.
+Updated D2 unit metadata.
+Added D3 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D3.
+Changed D3 value from D_SOD-123 to D.
+Updated D3 symbol association from  to /585a08ee-7909-4357-a72b-9c697adee8d5.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'BOOST.kicad_sch'.
+Connected D3 pin 1 to 0err_hi.
+Add net Net-(D3-+).
+Connected D3 pin 2 to Net-(D3-+).
+Updated D3 unit metadata.
+Added D4 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D4.
+Changed D4 value from D_SOD-123 to D.
+Updated D4 symbol association from  to /cca6d5db-b979-475f-9124-bafb5b34d21d.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D4-+).
+Connected D4 pin 2 to Net-(D4-+).
+Connected D4 pin 1 to Net-(D4--).
+Updated D4 unit metadata.
+Added D5 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D5.
+Changed D5 value from D_SOD-123 to D.
+Updated D5 symbol association from  to /ae8200bf-33f1-4c20-900c-02b7eeb6f8f0.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D5--).
+Connected D5 pin 1 to Net-(D5--).
+Add net Net-(D5-+).
+Connected D5 pin 2 to Net-(D5-+).
+Updated D5 unit metadata.
+Added D6 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D6.
+Changed D6 value from D_SOD-123 to D.
+Updated D6 symbol association from  to /be827e48-d77f-4f6c-965a-992495c19fbc.
+Updated D6 fields.
+Updated D6 sheetname to '/'.
+Updated D6 sheetfile to 'BOOST.kicad_sch'.
+Add net set-.
+Connected D6 pin 2 to set-.
+Add net low_error_timeout.
+Connected D6 pin 1 to low_error_timeout.
+Updated D6 unit metadata.
+Added D7 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D7.
+Changed D7 value from D_SOD-123 to D.
+Updated D7 symbol association from  to /6537f1e1-0984-4c6e-93ed-a2e2dca9a07d.
+Updated D7 fields.
+Updated D7 sheetname to '/'.
+Updated D7 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D7-+).
+Connected D7 pin 2 to Net-(D7-+).
+Add net Net-(D7--).
+Connected D7 pin 1 to Net-(D7--).
+Updated D7 unit metadata.
+Added D8 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D8.
+Changed D8 value from D_SOD-123 to D.
+Updated D8 symbol association from  to /0b42d47f-2e28-40bb-b5da-101118ee8b1a.
+Updated D8 fields.
+Updated D8 sheetname to '/'.
+Updated D8 sheetfile to 'BOOST.kicad_sch'.
+Add net GATE_M6.
+Connected D8 pin 2 to GATE_M6.
+Add net Net-(D8--).
+Connected D8 pin 1 to Net-(D8--).
+Updated D8 unit metadata.
+Added D9 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D9.
+Changed D9 value from D_SOD-123 to D.
+Updated D9 symbol association from  to /7448aa83-daab-41f4-a87b-315ab26cbd29.
+Updated D9 fields.
+Updated D9 sheetname to '/'.
+Updated D9 sheetfile to 'BOOST.kicad_sch'.
+Connected D9 pin 2 to 12V.
+Add net Net-(D9--).
+Connected D9 pin 1 to Net-(D9--).
+Updated D9 unit metadata.
+Added D10 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D10.
+Changed D10 value from D_SOD-123 to D.
+Updated D10 symbol association from  to /26ab0e6f-06bd-4e4d-a7b4-40a3fc7a3343.
+Updated D10 fields.
+Updated D10 sheetname to '/'.
+Updated D10 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D10--).
+Connected D10 pin 1 to Net-(D10--).
+Connected D10 pin 2 to 12V.
+Updated D10 unit metadata.
+Added D11 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D11.
+Changed D11 value from D_SOD-123 to D.
+Updated D11 symbol association from  to /bc25a725-54a2-4aff-a054-c49fd265882b.
+Updated D11 fields.
+Updated D11 sheetname to '/'.
+Updated D11 sheetfile to 'BOOST.kicad_sch'.
+Add net GATE_M2.
+Connected D11 pin 2 to GATE_M2.
+Add net Net-(D11--).
+Connected D11 pin 1 to Net-(D11--).
+Updated D11 unit metadata.
+Added D12 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D12.
+Changed D12 value from D_SOD-123 to D.
+Updated D12 symbol association from  to /fc7dd881-97bd-4884-b013-be301e4e1a37.
+Updated D12 fields.
+Updated D12 sheetname to '/'.
+Updated D12 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D12--).
+Connected D12 pin 1 to Net-(D12--).
+Add net GATE_M1.
+Connected D12 pin 2 to GATE_M1.
+Updated D12 unit metadata.
+Added D13 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D13.
+Changed D13 value from D_SOD-123 to D.
+Updated D13 symbol association from  to /36c12da3-f450-4bcf-b281-f69e2650500d.
+Updated D13 fields.
+Updated D13 sheetname to '/'.
+Updated D13 sheetfile to 'BOOST.kicad_sch'.
+Add net GATE_M4.
+Connected D13 pin 2 to GATE_M4.
+Add net Net-(D13--).
+Connected D13 pin 1 to Net-(D13--).
+Updated D13 unit metadata.
+Added D14 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D14.
+Changed D14 value from D_SOD-123 to D.
+Updated D14 symbol association from  to /3b96ffb8-8c43-4daf-a1e3-80b1f78a03c0.
+Updated D14 fields.
+Updated D14 sheetname to '/'.
+Updated D14 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D14--).
+Connected D14 pin 1 to Net-(D14--).
+Add net GATE_M3.
+Connected D14 pin 2 to GATE_M3.
+Updated D14 unit metadata.
+Added D15 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D15.
+Changed D15 value from D_SOD-123 to D.
+Updated D15 symbol association from  to /69e6ca6f-26e3-4877-8716-95d933764371.
+Updated D15 fields.
+Updated D15 sheetname to '/'.
+Updated D15 sheetfile to 'BOOST.kicad_sch'.
+Add net Out-.
+Connected D15 pin 2 to Out-.
+Connected D15 pin 1 to Net-(D1--).
+Updated D15 unit metadata.
+Added D19 (footprint 'Diode_SMD:D_SMC').
+Changed REF** reference designator to D19.
+Changed D19 value from D_SMC to TVS_5KP54A.
+Updated D19 symbol association from  to /c12ac945-5a4a-4dfa-9f84-a697ffc3294b.
+Updated D19 fields.
+Updated D19 sheetname to '/'.
+Updated D19 sheetfile to 'BOOST.kicad_sch'.
+Connected D19 pin 2 to GND.
+Add net LX.
+Connected D19 pin 1 to LX.
+Updated D19 unit metadata.
+Added D20 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D20.
+Changed D20 value from D_SOD-123 to D.
+Updated D20 symbol association from  to /e300cd88-2e8d-4ef6-b062-d0a02b91c410.
+Updated D20 fields.
+Updated D20 sheetname to '/'.
+Updated D20 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D20--).
+Connected D20 pin 1 to Net-(D20--).
+Add net Net-(D20-+).
+Connected D20 pin 2 to Net-(D20-+).
+Updated D20 unit metadata.
+Added D21 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D21.
+Changed D21 value from D_SOD-123 to D.
+Updated D21 symbol association from  to /b7368527-a923-4e7f-a7b0-30281a2a747e.
+Updated D21 fields.
+Updated D21 sheetname to '/'.
+Updated D21 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D21--).
+Connected D21 pin 1 to Net-(D21--).
+Connected D21 pin 2 to 12V.
+Updated D21 unit metadata.
+Added D22 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D22.
+Changed D22 value from D_SOD-123 to D.
+Updated D22 symbol association from  to /0515eaa6-5c86-45d9-a740-249de1467527.
+Updated D22 fields.
+Updated D22 sheetname to '/'.
+Updated D22 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(D22--).
+Connected D22 pin 1 to Net-(D22--).
+Add net GATE_M5.
+Connected D22 pin 2 to GATE_M5.
+Updated D22 unit metadata.
+Added D23 (footprint 'Diode_SMD:D_SOD-323').
+Changed REF** reference designator to D23.
+Changed D23 value from D_SOD-323 to D.
+Updated D23 symbol association from  to /802ab8d8-583f-4e15-80ce-43cafda2db2d.
+Updated D23 fields.
+Updated D23 sheetname to '/'.
+Updated D23 sheetfile to 'BOOST.kicad_sch'.
+Connected D23 pin 2 to Net-(D23-+).
+Connected D23 pin 1 to .1Vref_3.
+Updated D23 unit metadata.
+Added D24 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D24.
+Changed D24 value from D_SOD-123 to D.
+Updated D24 symbol association from  to /0864237d-12f8-4377-a206-059d75a033aa.
+Updated D24 fields.
+Updated D24 sheetname to '/'.
+Updated D24 sheetfile to 'BOOST.kicad_sch'.
+Connected D24 pin 1 to Net-(D1--).
+Add net Net-(D24-+).
+Connected D24 pin 2 to Net-(D24-+).
+Updated D24 unit metadata.
+Added D25 (footprint 'Diode_SMD:D_SOD-323').
+Changed REF** reference designator to D25.
+Changed D25 value from D_SOD-323 to D.
+Updated D25 symbol association from  to /e79ae225-c304-4a13-b187-55bf78fc9a10.
+Updated D25 fields.
+Updated D25 sheetname to '/'.
+Updated D25 sheetfile to 'BOOST.kicad_sch'.
+Connected D25 pin 1 to .1Vref_2.
+Connected D25 pin 2 to Net-(D25-+).
+Updated D25 unit metadata.
+Added D26 (footprint 'Diode_SMD:D_SOD-323').
+Changed REF** reference designator to D26.
+Changed D26 value from D_SOD-323 to D.
+Updated D26 symbol association from  to /ca41f1dc-3a77-4f15-81c6-eee461190828.
+Updated D26 fields.
+Updated D26 sheetname to '/'.
+Updated D26 sheetfile to 'BOOST.kicad_sch'.
+Connected D26 pin 2 to Net-(D26-+).
+Connected D26 pin 1 to .1Vref_1.
+Updated D26 unit metadata.
+Added J1 (footprint 'MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom').
+Changed REF** reference designator to J1.
+Changed J1 value from MountingHole_4.3mm_M4_Pad_TopBottom to Conn_01x01_Pin.
+Updated J1 symbol association from  to /dc1a6f05-cf91-4502-8a2f-c1a1469f530d.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'BOOST.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Removed J1 'exclude from BOM' fabrication attribute.
+Removed J1 'exclude from position files' fabrication attribute.
+Connected J1 pin 1 to Vin.
+Connected J1 pin 1 to Vin.
+Connected J1 pin 1 to Vin.
+Updated J1 unit metadata.
+Added J2 (footprint 'MountingHole:MountingHole_4.3mm_M4_Pad_TopBottom').
+Changed REF** reference designator to J2.
+Changed J2 value from MountingHole_4.3mm_M4_Pad_TopBottom to Conn_01x01_Pin.
+Updated J2 symbol association from  to /c8852304-7289-4f19-bcdb-b20de4047d04.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'BOOST.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Removed J2 'exclude from BOM' fabrication attribute.
+Removed J2 'exclude from position files' fabrication attribute.
+Connected J2 pin 1 to GND.
+Connected J2 pin 1 to GND.
+Connected J2 pin 1 to GND.
+Updated J2 unit metadata.
+Added J3 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J3.
+Changed J3 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J3 symbol association from  to /65d41ce1-5121-4947-9a93-b52a91ff5d0e.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'BOOST.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Removed J3 'exclude from BOM' fabrication attribute.
+Removed J3 'exclude from position files' fabrication attribute.
+Connected J3 pin 1 to Vout_1.
+Updated J3 unit metadata.
+Added J4 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J4.
+Changed J4 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J4 symbol association from  to /8c276fb0-c4fe-49c9-9d6e-9a772fbc7818.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'BOOST.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Removed J4 'exclude from BOM' fabrication attribute.
+Removed J4 'exclude from position files' fabrication attribute.
+Add net Output1_drain.
+Connected J4 pin 1 to Output1_drain.
+Updated J4 unit metadata.
+Added J5 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J5.
+Changed J5 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J5 symbol association from  to /6c6146c2-44b7-42bc-8012-49df0d57ef48.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'BOOST.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Removed J5 'exclude from BOM' fabrication attribute.
+Removed J5 'exclude from position files' fabrication attribute.
+Connected J5 pin 1 to Vout_3.
+Updated J5 unit metadata.
+Added J6 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J6.
+Changed J6 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J6 symbol association from  to /84b41429-49eb-4262-b4b0-4d2967136afb.
+Updated J6 fields.
+Updated J6 sheetname to '/'.
+Updated J6 sheetfile to 'BOOST.kicad_sch'.
+Updated J6 footprint filters to 'Connector*:*_1x??_*'.
+Removed J6 'exclude from BOM' fabrication attribute.
+Removed J6 'exclude from position files' fabrication attribute.
+Add net Output3_drain.
+Connected J6 pin 1 to Output3_drain.
+Updated J6 unit metadata.
+Added J7 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J7.
+Changed J7 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J7 symbol association from  to /446f448d-c3a8-484f-8f0f-5eb6cb91e2d8.
+Updated J7 fields.
+Updated J7 sheetname to '/'.
+Updated J7 sheetfile to 'BOOST.kicad_sch'.
+Updated J7 footprint filters to 'Connector*:*_1x??_*'.
+Removed J7 'exclude from BOM' fabrication attribute.
+Removed J7 'exclude from position files' fabrication attribute.
+Add net Output2_drain.
+Connected J7 pin 1 to Output2_drain.
+Updated J7 unit metadata.
+Added J8 (footprint 'TestPoint:TestPoint_THTPad_4.0x4.0mm_Drill2.0mm').
+Changed REF** reference designator to J8.
+Changed J8 value from TestPoint_THTPad_4.0x4.0mm_Drill2.0mm to Conn_01x01_Pin.
+Updated J8 symbol association from  to /49ca8ad8-9a11-4f49-b734-df3b55e0b114.
+Updated J8 fields.
+Updated J8 sheetname to '/'.
+Updated J8 sheetfile to 'BOOST.kicad_sch'.
+Updated J8 footprint filters to 'Connector*:*_1x??_*'.
+Removed J8 'exclude from BOM' fabrication attribute.
+Removed J8 'exclude from position files' fabrication attribute.
+Connected J8 pin 1 to Vout_2.
+Updated J8 unit metadata.
+Added J9 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical').
+Changed REF** reference designator to J9.
+Changed J9 value from PinHeader_1x10_P2.54mm_Vertical to Conn_01x10.
+Updated J9 symbol association from  to /36b202e0-ca34-4fba-9376-5d01851c85f5.
+Updated J9 fields.
+Updated J9 sheetname to '/'.
+Updated J9 sheetfile to 'BOOST.kicad_sch'.
+Updated J9 footprint filters to 'Connector*:*_1x??_*'.
+Add net IREF1.
+Connected J9 pin 4 to IREF1.
+Add net SCL.
+Connected J9 pin 7 to SCL.
+Connected J9 pin 10 to GND.
+Add net IREF2.
+Connected J9 pin 5 to IREF2.
+Add net SDA.
+Connected J9 pin 8 to SDA.
+Add net Vref_3_arduino.
+Connected J9 pin 3 to Vref_3_arduino.
+Add net IREF3.
+Connected J9 pin 6 to IREF3.
+Add net Vref_2_arduino.
+Connected J9 pin 2 to Vref_2_arduino.
+Add net Vref_1_arduino.
+Connected J9 pin 1 to Vref_1_arduino.
+Connected J9 pin 9 to 5V.
+Updated J9 unit metadata.
+Added L1 (footprint 'CSCF3218-6R8MC:IND_CSCF3218-6R8MC').
+Changed REF** reference designator to L1.
+Changed L1 value from IND_CSCF3218-6R8MC to 6.8µ.
+Updated L1 symbol association from  to /5a037b72-e206-409f-88c3-e68df970fb15.
+Updated L1 fields.
+Updated L1 sheetname to '/'.
+Updated L1 sheetfile to 'BOOST.kicad_sch'.
+Add net rsense_lo.
+Connected L1 pin 2 to rsense_lo.
+Connected L1 pin 1 to LX.
+Updated L1 unit metadata.
+Added M1 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M1.
+Changed M1 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M1 symbol association from  to /e59c367e-baf5-4dcc-9223-bcc064c916dc.
+Updated M1 fields.
+Updated M1 sheetname to '/'.
+Updated M1 sheetfile to 'BOOST.kicad_sch'.
+Connected M1 pin 2 to LX.
+Connected M1 pin 1 to GATE_M1.
+Connected M1 pin 3 to GND.
+Updated M1 unit metadata.
+Added M2 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M2.
+Changed M2 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M2 symbol association from  to /9fb07e2e-1f5f-4bad-a261-40bb3bc90762.
+Updated M2 fields.
+Updated M2 sheetname to '/'.
+Updated M2 sheetfile to 'BOOST.kicad_sch'.
+Connected M2 pin 3 to m2_source.
+Connected M2 pin 2 to Vout_1.
+Connected M2 pin 1 to GATE_M2.
+Updated M2 unit metadata.
+Added M3 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M3.
+Changed M3 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M3 symbol association from  to /67debde5-2e5f-40c2-8250-e5a25f7243d3.
+Updated M3 fields.
+Updated M3 sheetname to '/'.
+Updated M3 sheetfile to 'BOOST.kicad_sch'.
+Connected M3 pin 3 to m3_source.
+Connected M3 pin 1 to GATE_M3.
+Connected M3 pin 2 to Vout_2.
+Updated M3 unit metadata.
+Added M4 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M4.
+Changed M4 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M4 symbol association from  to /4bc4097a-e6de-4e41-b13a-b29ed517cb53.
+Updated M4 fields.
+Updated M4 sheetname to '/'.
+Updated M4 sheetfile to 'BOOST.kicad_sch'.
+Connected M4 pin 3 to m4_source.
+Connected M4 pin 2 to Vout_3.
+Connected M4 pin 1 to GATE_M4.
+Updated M4 unit metadata.
+Added M5 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M5.
+Changed M5 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M5 symbol association from  to /9a672681-8e79-4ead-9133-ed39713894f9.
+Updated M5 fields.
+Updated M5 sheetname to '/'.
+Updated M5 sheetfile to 'BOOST.kicad_sch'.
+Connected M5 pin 2 to LX.
+Connected M5 pin 1 to GATE_M5.
+Connected M5 pin 3 to m4_source.
+Updated M5 unit metadata.
+Added M6 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M6.
+Changed M6 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M6 symbol association from  to /b7075abb-6a7c-443e-b477-8694f1cfff74.
+Updated M6 fields.
+Updated M6 sheetname to '/'.
+Updated M6 sheetfile to 'BOOST.kicad_sch'.
+Connected M6 pin 3 to m3_source.
+Connected M6 pin 1 to GATE_M6.
+Connected M6 pin 2 to LX.
+Updated M6 unit metadata.
+Added M7 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M7.
+Changed M7 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M7 symbol association from  to /c54ce830-6446-42af-a03a-d9d682a5295d.
+Updated M7 fields.
+Updated M7 sheetname to '/'.
+Updated M7 sheetfile to 'BOOST.kicad_sch'.
+Connected M7 pin 1 to GATE_M7.
+Connected M7 pin 3 to m2_source.
+Connected M7 pin 2 to LX.
+Updated M7 unit metadata.
+Added M8 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M8.
+Changed M8 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M8 symbol association from  to /0e75f021-2c7b-403f-ab27-b904015d4a82.
+Updated M8 fields.
+Updated M8 sheetname to '/'.
+Updated M8 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(M8-G).
+Connected M8 pin 1 to Net-(M8-G).
+Connected M8 pin 2 to Output3_drain.
+Add net Net-(M8-S).
+Connected M8 pin 3 to Net-(M8-S).
+Updated M8 unit metadata.
+Added M9 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M9.
+Changed M9 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M9 symbol association from  to /dcb925b5-870f-4b94-afba-19a9fdd10146.
+Updated M9 fields.
+Updated M9 sheetname to '/'.
+Updated M9 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(M9-G).
+Connected M9 pin 1 to Net-(M9-G).
+Connected M9 pin 2 to Output2_drain.
+Add net Net-(M9-S).
+Connected M9 pin 3 to Net-(M9-S).
+Updated M9 unit metadata.
+Added M10 (footprint 'Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown').
+Changed REF** reference designator to M10.
+Changed M10 value from TO-220-3_Horizontal_TabDown to HYG180N10.
+Updated M10 symbol association from  to /d805daf8-0cbd-4385-90ec-c4d61786abf3.
+Updated M10 fields.
+Updated M10 sheetname to '/'.
+Updated M10 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(M10-G).
+Connected M10 pin 1 to Net-(M10-G).
+Add net Net-(M10-S).
+Connected M10 pin 3 to Net-(M10-S).
+Connected M10 pin 2 to Output1_drain.
+Updated M10 unit metadata.
+Added Q1 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to Q1.
+Changed Q1 value from SOT-23 to PNP.
+Updated Q1 symbol association from  to /fab4b25e-ae5d-46ee-ae49-b58a619702f0.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'BOOST.kicad_sch'.
+Connected Q1 pin 1 to Net-(D4-+).
+Connected Q1 pin 2 to Net-(Q1-E).
+Connected Q1 pin 3 to GND.
+Updated Q1 unit metadata.
+Added R1 (footprint 'Resistor_SMD:R_2512_6332Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_2512_6332Metric to 2m.
+Updated R1 symbol association from  to /7a48cf61-ed9a-4ea3-b58c-d2441c7406e9.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'BOOST.kicad_sch'.
+Connected R1 pin 2 to Vin.
+Connected R1 pin 1 to rsense_lo.
+Updated R1 unit metadata.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0603_1608Metric to 10k.
+Updated R2 symbol association from  to /90b6be69-04b3-4ca4-b135-c1230a81890f.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'BOOST.kicad_sch'.
+Add net .1Vout_1.
+Connected R2 pin 2 to .1Vout_1.
+Add net Net-(U3-In-).
+Connected R2 pin 1 to Net-(U3-In-).
+Updated R2 unit metadata.
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric to 620k.
+Updated R3 symbol association from  to /fecff3d7-aebd-4341-b1e5-8014ef48755d.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'BOOST.kicad_sch'.
+Connected R3 pin 2 to Net-(U3-In-).
+Add net Voltage_err_1.
+Connected R3 pin 1 to Voltage_err_1.
+Updated R3 unit metadata.
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric to 1k.
+Updated R4 symbol association from  to /8e2a0e1b-8124-4a43-a175-f73a576ce3b4.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'BOOST.kicad_sch'.
+Connected R4 pin 1 to set-.
+Add net Net-(U101A-Y).
+Connected R4 pin 2 to Net-(U101A-Y).
+Updated R4 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric to 10k.
+Updated R6 symbol association from  to /bb73cf46-11e2-4434-b8d0-cb2afd27a5ed.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'BOOST.kicad_sch'.
+Connected R6 pin 2 to .1Vref_1.
+Connected R6 pin 1 to Vref_1.
+Updated R6 unit metadata.
+Changed REF** reference designator to C1.
+Added R7 (footprint 'Resistor_SMD:R_2512_6332Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_2512_6332Metric to .05.
+Updated R7 symbol association from  to /ab423aa5-dc6f-432e-8a3d-85329f7e6f35.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'BOOST.kicad_sch'.
+Connected R7 pin 2 to GND.
+Connected R7 pin 1 to Net-(M8-S).
+Updated R7 unit metadata.
+Changed C1 value from C_1210_3225Metric to 4.7µ.
+Added R8 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0603_1608Metric to 2k.
+Updated R8 symbol association from  to /e4becc8e-df86-409f-9a54-dfd5795690b3.
+Updated R8 fields.
+Updated R8 sheetname to '/'.
+Updated R8 sheetfile to 'BOOST.kicad_sch'.
+Connected R8 pin 2 to GND.
+Connected R8 pin 1 to .1Vout_1.
+Updated R8 unit metadata.
+Updated C1 symbol association from  to /80ecd69e-80ae-47f8-a0a9-e96a3c1f40cb.
+Added R9 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0805_2012Metric to 18k.
+Updated R9 symbol association from  to /1109968a-3a85-48fc-b150-5003758c51ad.
+Updated R9 fields.
+Updated R9 sheetname to '/'.
+Updated R9 sheetfile to 'BOOST.kicad_sch'.
+Connected R9 pin 1 to .1Vout_1.
+Connected R9 pin 2 to Vout_1.
+Updated R9 unit metadata.
+Updated C1 fields.
+Added R11 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0603_1608Metric to 510k.
+Updated R11 symbol association from  to /b67b7aa3-e239-4658-a39f-88245ce74f22.
+Updated R11 fields.
+Updated R11 sheetname to '/'.
+Updated R11 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U2-In+).
+Connected R11 pin 2 to Net-(U2-In+).
+Add net 0A_hi.
+Connected R11 pin 1 to 0A_hi.
+Updated R11 unit metadata.
+Updated C1 sheetname to '/'.
+Added R13 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0603_1608Metric to 100.
+Updated R13 symbol association from  to /34fd8b57-d505-40a8-a5ee-c200160bfb8e.
+Updated R13 fields.
+Updated R13 sheetname to '/'.
+Updated R13 sheetfile to 'BOOST.kicad_sch'.
+Connected R13 pin 1 to GATE_M2.
+Connected R13 pin 2 to Net-(D11--).
+Updated R13 unit metadata.
+Updated C1 sheetfile to 'BOOST.kicad_sch'.
+Added R14 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0805_2012Metric to 1Meg.
+Updated R14 symbol association from  to /1db6f0e2-9d20-4622-80f1-b1b7369f4ca9.
+Updated R14 fields.
+Updated R14 sheetname to '/'.
+Updated R14 sheetfile to 'BOOST.kicad_sch'.
+Connected R14 pin 1 to LX.
+Connected R14 pin 2 to GND.
+Updated R14 unit metadata.
+Add net GND.
+Added R15 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R15.
+Changed R15 value from R_0805_2012Metric to 5.1.
+Updated R15 symbol association from  to /26ac5ee8-99f9-4ab3-a3c0-1d16fb4e1f5f.
+Updated R15 fields.
+Updated R15 sheetname to '/'.
+Updated R15 sheetfile to 'BOOST.kicad_sch'.
+Connected R15 pin 1 to Net-(D12--).
+Connected R15 pin 2 to GATE_M1.
+Updated R15 unit metadata.
+Connected C1 pin 2 to GND.
+Added R16 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R16.
+Changed R16 value from R_0603_1608Metric to 5.1k.
+Updated R16 symbol association from  to /29ea6ec9-06cb-4602-a113-66899980dbb2.
+Updated R16 fields.
+Updated R16 sheetname to '/'.
+Updated R16 sheetfile to 'BOOST.kicad_sch'.
+Connected R16 pin 1 to Net-(U2-In+).
+Connected R16 pin 2 to GND.
+Updated R16 unit metadata.
+Add net Vout_1.
+Added R17 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R17.
+Changed R17 value from R_0603_1608Metric to 510k.
+Updated R17 symbol association from  to /8f08e34a-27a2-43f7-bfa3-991c9d3de011.
+Updated R17 fields.
+Updated R17 sheetname to '/'.
+Updated R17 sheetfile to 'BOOST.kicad_sch'.
+Connected R17 pin 2 to 5V.
+Connected R17 pin 1 to Net-(U2-In+).
+Updated R17 unit metadata.
+Connected C1 pin 1 to Vout_1.
+Added R18 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R18.
+Changed R18 value from R_0603_1608Metric to 200k.
+Updated R18 symbol association from  to /a50739cf-21bf-413d-8a57-1064d4d66260.
+Updated R18 fields.
+Updated R18 sheetname to '/'.
+Updated R18 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U4-In+).
+Connected R18 pin 2 to Net-(U4-In+).
+Connected R18 pin 1 to 0err_hi.
+Updated R18 unit metadata.
+Updated C1 unit metadata.
+Added R19 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R19.
+Changed R19 value from R_0603_1608Metric to 5.1k.
+Updated R19 symbol association from  to /5f31a7df-a874-43d9-b47e-71d8c26b853e.
+Updated R19 fields.
+Updated R19 sheetname to '/'.
+Updated R19 sheetfile to 'BOOST.kicad_sch'.
+Connected R19 pin 2 to GND.
+Connected R19 pin 1 to Net-(U4-In+).
+Updated R19 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R20 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R20.
+Changed R20 value from R_0603_1608Metric to 200k.
+Updated R20 symbol association from  to /a4c5ee70-14b9-4698-a26c-1910e92c7d7b.
+Updated R20 fields.
+Updated R20 sheetname to '/'.
+Updated R20 sheetfile to 'BOOST.kicad_sch'.
+Connected R20 pin 2 to 5V.
+Connected R20 pin 1 to Net-(U4-In+).
+Updated R20 unit metadata.
+Changed REF** reference designator to C3.
+Added R21 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R21.
+Changed R21 value from R_0805_2012Metric to 5.
+Updated R21 symbol association from  to /abc07d5f-b1e3-4dc6-bca8-dcfbb06f23be.
+Updated R21 fields.
+Updated R21 sheetname to '/'.
+Updated R21 sheetfile to 'BOOST.kicad_sch'.
+Connected R21 pin 1 to Net-(D10--).
+Connected R21 pin 2 to Net-(U15-VDDA).
+Updated R21 unit metadata.
+Changed C3 value from C_0805_2012Metric to 100n.
+Added R22 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R22.
+Changed R22 value from R_0603_1608Metric to 100.
+Updated R22 symbol association from  to /9567d51a-1c59-4efa-b6e8-651bf449c157.
+Updated R22 fields.
+Updated R22 sheetname to '/'.
+Updated R22 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U6-OUT).
+Connected R22 pin 2 to Net-(U6-OUT).
+Connected R22 pin 1 to Net-(M8-G).
+Updated R22 unit metadata.
+Updated C3 symbol association from  to /22a28455-70b8-46d2-8f56-bf4b4d6ee4e2.
+Added R23 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R23.
+Changed R23 value from R_0603_1608Metric to 100.
+Updated R23 symbol association from  to /6fc878aa-6c87-47fc-87a7-ce36b0deb926.
+Updated R23 fields.
+Updated R23 sheetname to '/'.
+Updated R23 sheetfile to 'BOOST.kicad_sch'.
+Connected R23 pin 2 to GATE_M3.
+Connected R23 pin 1 to Net-(D14--).
+Updated R23 unit metadata.
+Updated C3 fields.
+Added R25 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R25.
+Changed R25 value from R_0805_2012Metric to 910k.
+Updated R25 symbol association from  to /bae43129-26cc-4e79-ab2b-2b7139e7e903.
+Updated R25 fields.
+Updated R25 sheetname to '/'.
+Updated R25 sheetfile to 'BOOST.kicad_sch'.
+Connected R25 pin 1 to Output2_drain.
+Add net Net-(U106B-A).
+Connected R25 pin 2 to Net-(U106B-A).
+Updated R25 unit metadata.
+Updated C3 sheetname to '/'.
+Added R26 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R26.
+Changed R26 value from R_0603_1608Metric to 220.
+Updated R26 symbol association from  to /2f1ca5af-f167-49fd-9089-56ef13cd2e95.
+Updated R26 fields.
+Updated R26 sheetname to '/'.
+Updated R26 sheetfile to 'BOOST.kicad_sch'.
+Connected R26 pin 1 to Net-(D1--).
+Connected R26 pin 2 to Net-(C19-Pad1).
+Updated R26 unit metadata.
+Updated C3 sheetfile to 'BOOST.kicad_sch'.
+Added R27 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R27.
+Changed R27 value from R_0603_1608Metric to 4.7k.
+Updated R27 symbol association from  to /fd5d0bb4-e2df-45fc-ab14-eb6c2ca64f71.
+Updated R27 fields.
+Updated R27 sheetname to '/'.
+Updated R27 sheetfile to 'BOOST.kicad_sch'.
+Connected R27 pin 1 to Voltage_err_1.
+Connected R27 pin 2 to Verr1.
+Updated R27 unit metadata.
+Connected C3 pin 2 to GND.
+Added R28 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R28.
+Changed R28 value from R_0603_1608Metric to 100k.
+Updated R28 symbol association from  to /6c0519bc-efca-45ba-bc02-1c011a2896a8.
+Updated R28 fields.
+Updated R28 sheetname to '/'.
+Updated R28 sheetfile to 'BOOST.kicad_sch'.
+Connected R28 pin 2 to Verr1.
+Connected R28 pin 1 to GND.
+Updated R28 unit metadata.
+Add net Vout_2.
+Added R29 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R29.
+Changed R29 value from R_0805_2012Metric to 22k.
+Updated R29 symbol association from  to /d4cc37ad-74a4-4bff-a854-cfd51841c477.
+Updated R29 fields.
+Updated R29 sheetname to '/'.
+Updated R29 sheetfile to 'BOOST.kicad_sch'.
+Connected R29 pin 1 to IREF1.
+Connected R29 pin 2 to Net-(U26A-P0B).
+Updated R29 unit metadata.
+Connected C3 pin 1 to Vout_2.
+Added R30 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R30.
+Changed R30 value from R_0805_2012Metric to 22k.
+Updated R30 symbol association from  to /ec628d4a-a371-418d-a781-c497400842f4.
+Updated R30 fields.
+Updated R30 sheetname to '/'.
+Updated R30 sheetfile to 'BOOST.kicad_sch'.
+Connected R30 pin 1 to IREF2.
+Connected R30 pin 2 to Net-(U26B-P1B).
+Updated R30 unit metadata.
+Updated C3 unit metadata.
+Added R31 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R31.
+Changed R31 value from R_0603_1608Metric to 10k.
+Updated R31 symbol association from  to /f0669598-0b37-4594-9bcb-db1ae90e234d.
+Updated R31 fields.
+Updated R31 sheetname to '/'.
+Updated R31 sheetfile to 'BOOST.kicad_sch'.
+Add net .1Vout_2.
+Connected R31 pin 2 to .1Vout_2.
+Add net Net-(U7-In-).
+Connected R31 pin 1 to Net-(U7-In-).
+Updated R31 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Added R32 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R32.
+Changed R32 value from R_0603_1608Metric to 620k.
+Updated R32 symbol association from  to /afb7612d-eac0-4b3c-824c-916f1455cee8.
+Updated R32 fields.
+Updated R32 sheetname to '/'.
+Updated R32 sheetfile to 'BOOST.kicad_sch'.
+Add net Voltage_err_2.
+Connected R32 pin 1 to Voltage_err_2.
+Connected R32 pin 2 to Net-(U7-In-).
+Updated R32 unit metadata.
+Changed REF** reference designator to C4.
+Added R33 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R33.
+Changed R33 value from R_0603_1608Metric to 10k.
+Updated R33 symbol association from  to /8d4c262e-ce6f-4bc8-bf04-997f7853f679.
+Updated R33 fields.
+Updated R33 sheetname to '/'.
+Updated R33 sheetfile to 'BOOST.kicad_sch'.
+Connected R33 pin 2 to .1Vref_2.
+Connected R33 pin 1 to Vref_2.
+Updated R33 unit metadata.
+Changed C4 value from C_1210_3225Metric to 4.7µ.
+Added R34 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R34.
+Changed R34 value from R_0603_1608Metric to 2k.
+Updated R34 symbol association from  to /5a9a60c7-a8e8-437f-a459-95471ea3331f.
+Updated R34 fields.
+Updated R34 sheetname to '/'.
+Updated R34 sheetfile to 'BOOST.kicad_sch'.
+Connected R34 pin 2 to GND.
+Connected R34 pin 1 to .1Vout_2.
+Updated R34 unit metadata.
+Updated C4 symbol association from  to /c367dcf9-75dd-45e2-82a7-86959adaa4a4.
+Added R35 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R35.
+Changed R35 value from R_0805_2012Metric to 18k.
+Updated R35 symbol association from  to /00cf4506-f828-437c-bf47-a6b005df03a1.
+Updated R35 fields.
+Updated R35 sheetname to '/'.
+Updated R35 sheetfile to 'BOOST.kicad_sch'.
+Connected R35 pin 1 to .1Vout_2.
+Connected R35 pin 2 to Vout_2.
+Updated R35 unit metadata.
+Updated C4 fields.
+Added R36 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R36.
+Changed R36 value from R_0603_1608Metric to 100k.
+Updated R36 symbol association from  to /62372bf5-b758-4d3f-a8ed-f987dc8ce63b.
+Updated R36 fields.
+Updated R36 sheetname to '/'.
+Updated R36 sheetfile to 'BOOST.kicad_sch'.
+Connected R36 pin 2 to GND.
+Connected R36 pin 1 to Net-(U106B-A).
+Updated R36 unit metadata.
+Updated C4 sheetname to '/'.
+Added R37 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R37.
+Changed R37 value from R_0603_1608Metric to 4.7k.
+Updated R37 symbol association from  to /36046b55-0fc3-4b9a-afb8-f383bda7a96b.
+Updated R37 fields.
+Updated R37 sheetname to '/'.
+Updated R37 sheetfile to 'BOOST.kicad_sch'.
+Connected R37 pin 2 to Verr2.
+Connected R37 pin 1 to Voltage_err_2.
+Updated R37 unit metadata.
+Updated C4 sheetfile to 'BOOST.kicad_sch'.
+Added R38 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R38.
+Changed R38 value from R_0603_1608Metric to 100k.
+Updated R38 symbol association from  to /fa61660e-92d7-48e1-8993-6ea94fa409c8.
+Updated R38 fields.
+Updated R38 sheetname to '/'.
+Updated R38 sheetfile to 'BOOST.kicad_sch'.
+Connected R38 pin 1 to GND.
+Connected R38 pin 2 to Verr2.
+Updated R38 unit metadata.
+Add net Vout_3.
+Added R39 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R39.
+Changed R39 value from R_0603_1608Metric to 10k.
+Updated R39 symbol association from  to /cb9c307f-b1e5-42fe-afba-7cc48c8abb1f.
+Updated R39 fields.
+Updated R39 sheetname to '/'.
+Updated R39 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U13-In-).
+Connected R39 pin 1 to Net-(U13-In-).
+Add net .1Vout_3.
+Connected R39 pin 2 to .1Vout_3.
+Updated R39 unit metadata.
+Connected C4 pin 1 to Vout_3.
+Added R40 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R40.
+Changed R40 value from R_0603_1608Metric to 620k.
+Updated R40 symbol association from  to /d5ad303a-857a-441f-ba5e-3f39f1cba6fc.
+Updated R40 fields.
+Updated R40 sheetname to '/'.
+Updated R40 sheetfile to 'BOOST.kicad_sch'.
+Connected R40 pin 2 to Net-(U13-In-).
+Add net Voltage_err_3.
+Connected R40 pin 1 to Voltage_err_3.
+Updated R40 unit metadata.
+Connected C4 pin 2 to GND.
+Added R41 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R41.
+Changed R41 value from R_0603_1608Metric to 10k.
+Updated R41 symbol association from  to /0056fa13-767a-4274-82bd-c1ef10b83bc7.
+Updated R41 fields.
+Updated R41 sheetname to '/'.
+Updated R41 sheetfile to 'BOOST.kicad_sch'.
+Connected R41 pin 2 to .1Vref_3.
+Connected R41 pin 1 to Vref_3.
+Updated R41 unit metadata.
+Updated C4 unit metadata.
+Added R42 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R42.
+Changed R42 value from R_0603_1608Metric to 2k.
+Updated R42 symbol association from  to /59932d0a-a226-46a2-b07a-f68059b67aa0.
+Updated R42 fields.
+Updated R42 sheetname to '/'.
+Updated R42 sheetfile to 'BOOST.kicad_sch'.
+Connected R42 pin 2 to GND.
+Connected R42 pin 1 to .1Vout_3.
+Updated R42 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R43 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R43.
+Changed R43 value from R_0805_2012Metric to 18k.
+Updated R43 symbol association from  to /9e82fe51-9c28-4a93-acf9-96d555e07d0e.
+Updated R43 fields.
+Updated R43 sheetname to '/'.
+Updated R43 sheetfile to 'BOOST.kicad_sch'.
+Connected R43 pin 1 to .1Vout_3.
+Connected R43 pin 2 to Vout_3.
+Updated R43 unit metadata.
+Changed REF** reference designator to C6.
+Added R44 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R44.
+Changed R44 value from R_0603_1608Metric to 100k.
+Updated R44 symbol association from  to /87871cf0-cca8-4f16-89e2-77368319d4c1.
+Updated R44 fields.
+Updated R44 sheetname to '/'.
+Updated R44 sheetfile to 'BOOST.kicad_sch'.
+Connected R44 pin 1 to analog_5V.
+Connected R44 pin 2 to Net-(U22-In+).
+Updated R44 unit metadata.
+Changed C6 value from C_0805_2012Metric to 1µ.
+Added R45 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R45.
+Changed R45 value from R_0603_1608Metric to 4.7k.
+Updated R45 symbol association from  to /f652e78c-3e84-498e-aaa1-972654ffcae1.
+Updated R45 fields.
+Updated R45 sheetname to '/'.
+Updated R45 sheetfile to 'BOOST.kicad_sch'.
+Connected R45 pin 1 to Voltage_err_3.
+Connected R45 pin 2 to Verr3.
+Updated R45 unit metadata.
+Updated C6 symbol association from  to /9500c70b-dd5a-4f9f-9a99-92f9b137105f.
+Added R46 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R46.
+Changed R46 value from R_0603_1608Metric to 100k.
+Updated R46 symbol association from  to /184205d8-e894-4e91-9aff-150051c22294.
+Updated R46 fields.
+Updated R46 sheetname to '/'.
+Updated R46 sheetfile to 'BOOST.kicad_sch'.
+Connected R46 pin 1 to GND.
+Connected R46 pin 2 to Verr3.
+Updated R46 unit metadata.
+Updated C6 fields.
+Added R47 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R47.
+Changed R47 value from R_0603_1608Metric to 100.
+Updated R47 symbol association from  to /71bd0f1f-c2f4-484c-8d3f-5e7f87ee080d.
+Updated R47 fields.
+Updated R47 sheetname to '/'.
+Updated R47 sheetfile to 'BOOST.kicad_sch'.
+Connected R47 pin 2 to Net-(D13--).
+Connected R47 pin 1 to GATE_M4.
+Updated R47 unit metadata.
+Updated C6 sheetname to '/'.
+Added R48 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R48.
+Changed R48 value from R_0805_2012Metric to 5.
+Updated R48 symbol association from  to /20607170-6c39-4ea4-a181-d07487df79bc.
+Updated R48 fields.
+Updated R48 sheetname to '/'.
+Updated R48 sheetfile to 'BOOST.kicad_sch'.
+Connected R48 pin 2 to Net-(U10-VDDA).
+Connected R48 pin 1 to Net-(D9--).
+Updated R48 unit metadata.
+Updated C6 sheetfile to 'BOOST.kicad_sch'.
+Added R49 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R49.
+Changed R49 value from R_0603_1608Metric to 10k.
+Updated R49 symbol association from  to /bdc14635-67f6-44da-bd42-b5fcd907f1fd.
+Updated R49 fields.
+Updated R49 sheetname to '/'.
+Updated R49 sheetfile to 'BOOST.kicad_sch'.
+Connected R49 pin 2 to m3_source.
+Connected R49 pin 1 to GATE_M6.
+Updated R49 unit metadata.
+Connected C6 pin 2 to GND.
+Added R50 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R50.
+Changed R50 value from R_0603_1608Metric to 100.
+Updated R50 symbol association from  to /60dd2fc6-d845-452f-93fe-f0a307957047.
+Updated R50 fields.
+Updated R50 sheetname to '/'.
+Updated R50 sheetfile to 'BOOST.kicad_sch'.
+Connected R50 pin 1 to Net-(M9-G).
+Add net Net-(U12-OUT).
+Connected R50 pin 2 to Net-(U12-OUT).
+Updated R50 unit metadata.
+Add net 12V.
+Added R51 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R51.
+Changed R51 value from R_0603_1608Metric to 2k.
+Updated R51 symbol association from  to /168a90d3-11fc-410a-a0a5-0b1fba2085b5.
+Updated R51 fields.
+Updated R51 sheetname to '/'.
+Updated R51 sheetfile to 'BOOST.kicad_sch'.
+Connected R51 pin 1 to Out-.
+Connected R51 pin 2 to Net-(C19-Pad1).
+Updated R51 unit metadata.
+Connected C6 pin 1 to 12V.
+Added R52 (footprint 'Resistor_SMD:R_2512_6332Metric').
+Changed REF** reference designator to R52.
+Changed R52 value from R_2512_6332Metric to .05.
+Updated R52 symbol association from  to /4894b21a-009d-4d05-92fe-75719dc319d2.
+Updated R52 fields.
+Updated R52 sheetname to '/'.
+Updated R52 sheetfile to 'BOOST.kicad_sch'.
+Connected R52 pin 2 to GND.
+Connected R52 pin 1 to Net-(M10-S).
+Updated R52 unit metadata.
+Updated C6 unit metadata.
+Added R53 (footprint 'Resistor_SMD:R_2512_6332Metric').
+Changed REF** reference designator to R53.
+Changed R53 value from R_2512_6332Metric to .05.
+Updated R53 symbol association from  to /91c34481-0ecc-4eaa-815d-5e7624791cca.
+Updated R53 fields.
+Updated R53 sheetname to '/'.
+Updated R53 sheetfile to 'BOOST.kicad_sch'.
+Connected R53 pin 1 to Net-(M9-S).
+Connected R53 pin 2 to GND.
+Updated R53 unit metadata.
+Added C7 (footprint 'Capacitor_SMD:CP_Elec_6.3x5.4').
+Added R54 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R54.
+Changed R54 value from R_0603_1608Metric to 1k.
+Updated R54 symbol association from  to /8e7f980d-cfa2-4261-8c75-d06b9495e05e.
+Updated R54 fields.
+Updated R54 sheetname to '/'.
+Updated R54 sheetfile to 'BOOST.kicad_sch'.
+Connected R54 pin 2 to GND.
+Connected R54 pin 1 to Net-(U26A-P0B).
+Updated R54 unit metadata.
+Changed REF** reference designator to C7.
+Added R55 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R55.
+Changed R55 value from R_0603_1608Metric to 1k.
+Updated R55 symbol association from  to /f2f1cf5a-a58c-4903-b4ef-c8c2603e6ac8.
+Updated R55 fields.
+Updated R55 sheetname to '/'.
+Updated R55 sheetfile to 'BOOST.kicad_sch'.
+Connected R55 pin 2 to GND.
+Connected R55 pin 1 to Net-(U26B-P1B).
+Updated R55 unit metadata.
+Changed C7 value from CP_Elec_6.3x5.4 to 47µ.
+Added R56 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R56.
+Changed R56 value from R_0603_1608Metric to 100.
+Updated R56 symbol association from  to /9ebf5004-bad4-4455-9147-ada6a4817576.
+Updated R56 fields.
+Updated R56 sheetname to '/'.
+Updated R56 sheetfile to 'BOOST.kicad_sch'.
+Connected R56 pin 1 to Net-(M10-G).
+Add net Net-(U11-OUT).
+Connected R56 pin 2 to Net-(U11-OUT).
+Updated R56 unit metadata.
+Updated C7 symbol association from  to /27ecd4fb-88c4-421f-972c-28889b7b12e0.
+Added R57 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R57.
+Changed R57 value from R_0805_2012Metric to 22k.
+Updated R57 symbol association from  to /a45207ca-0d5e-4ce6-a183-2b7feacd9160.
+Updated R57 fields.
+Updated R57 sheetname to '/'.
+Updated R57 sheetfile to 'BOOST.kicad_sch'.
+Connected R57 pin 1 to IREF3.
+Connected R57 pin 2 to Net-(U26C-P2B).
+Updated R57 unit metadata.
+Updated C7 fields.
+Added R58 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R58.
+Changed R58 value from R_0603_1608Metric to 1k.
+Updated R58 symbol association from  to /240192e9-3363-4571-827d-580c3db7d78a.
+Updated R58 fields.
+Updated R58 sheetname to '/'.
+Updated R58 sheetfile to 'BOOST.kicad_sch'.
+Connected R58 pin 1 to Net-(U26C-P2B).
+Connected R58 pin 2 to GND.
+Updated R58 unit metadata.
+Updated C7 sheetname to '/'.
+Added R59 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R59.
+Changed R59 value from R_0805_2012Metric to 5.1.
+Updated R59 symbol association from  to /1298f60b-bc64-45df-9718-4b0c4edde14e.
+Updated R59 fields.
+Updated R59 sheetname to '/'.
+Updated R59 sheetfile to 'BOOST.kicad_sch'.
+Connected R59 pin 2 to Net-(D22--).
+Connected R59 pin 1 to GATE_M5.
+Updated R59 unit metadata.
+Updated C7 sheetfile to 'BOOST.kicad_sch'.
+Added R60 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R60.
+Changed R60 value from R_0805_2012Metric to 5.
+Updated R60 symbol association from  to /1d0e19b5-bc36-43de-8d47-ca704015934a.
+Updated R60 fields.
+Updated R60 sheetname to '/'.
+Updated R60 sheetfile to 'BOOST.kicad_sch'.
+Connected R60 pin 1 to Net-(D2--).
+Connected R60 pin 2 to GATE_M7.
+Updated R60 unit metadata.
+Connected C7 pin 2 to GND.
+Added R61 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R61.
+Changed R61 value from R_0603_1608Metric to 10k.
+Updated R61 symbol association from  to /f43ced6e-8a1c-439e-b4ce-76a4044f673e.
+Updated R61 fields.
+Updated R61 sheetname to '/'.
+Updated R61 sheetfile to 'BOOST.kicad_sch'.
+Connected R61 pin 1 to m3_source.
+Connected R61 pin 2 to GATE_M3.
+Updated R61 unit metadata.
+Add net 5V.
+Added R62 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R62.
+Changed R62 value from R_0603_1608Metric to 10k.
+Updated R62 symbol association from  to /c8883f62-bc67-4fd5-a482-a767cc70be4b.
+Updated R62 fields.
+Updated R62 sheetname to '/'.
+Updated R62 sheetfile to 'BOOST.kicad_sch'.
+Connected R62 pin 2 to GND.
+Add net Net-(U19-OUTB).
+Connected R62 pin 1 to Net-(U19-OUTB).
+Updated R62 unit metadata.
+Connected C7 pin 1 to 5V.
+Added R63 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R63.
+Changed R63 value from R_0603_1608Metric to 2k.
+Updated R63 symbol association from  to /7a44358e-6df8-4136-9c49-0ea300641bd2.
+Updated R63 fields.
+Updated R63 sheetname to '/'.
+Updated R63 sheetfile to 'BOOST.kicad_sch'.
+Connected R63 pin 2 to Net-(D5-+).
+Connected R63 pin 1 to Net-(C8-Pad2).
+Updated R63 unit metadata.
+Updated C7 unit metadata.
+Added R64 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R64.
+Changed R64 value from R_0603_1608Metric to 220.
+Updated R64 symbol association from  to /44736f4a-dcd7-497a-ae60-b4d53195ed06.
+Updated R64 fields.
+Updated R64 sheetname to '/'.
+Updated R64 sheetfile to 'BOOST.kicad_sch'.
+Connected R64 pin 2 to Net-(D5--).
+Connected R64 pin 1 to Net-(C8-Pad2).
+Updated R64 unit metadata.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R65 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R65.
+Changed R65 value from R_0603_1608Metric to 22k.
+Updated R65 symbol association from  to /239f0455-7d4d-49a7-839b-5f1fe52d0ca9.
+Updated R65 fields.
+Updated R65 sheetname to '/'.
+Updated R65 sheetfile to 'BOOST.kicad_sch'.
+Connected R65 pin 1 to Net-(D4-+).
+Connected R65 pin 2 to Net-(D3-+).
+Updated R65 unit metadata.
+Changed REF** reference designator to C8.
+Added R66 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R66.
+Changed R66 value from R_0603_1608Metric to 3.3k.
+Updated R66 symbol association from  to /ff3fff10-2c04-499f-ab77-de097b68a554.
+Updated R66 fields.
+Updated R66 sheetname to '/'.
+Updated R66 sheetfile to 'BOOST.kicad_sch'.
+Connected R66 pin 1 to 0err_hi.
+Connected R66 pin 2 to Net-(Q1-E).
+Updated R66 unit metadata.
+Changed C8 value from C_0603_1608Metric to 330p.
+Added R67 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R67.
+Changed R67 value from R_0603_1608Metric to 10k.
+Updated R67 symbol association from  to /de4048e4-81c4-4b21-8d46-91cb2be4c26f.
+Updated R67 fields.
+Updated R67 sheetname to '/'.
+Updated R67 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U14-In+).
+Connected R67 pin 2 to Net-(U14-In+).
+Connected R67 pin 1 to low_error_timeout.
+Updated R67 unit metadata.
+Updated C8 symbol association from  to /5c56feec-a8e4-4a34-9f55-b818268ff340.
+Added R68 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R68.
+Changed R68 value from R_0603_1608Metric to 62k.
+Updated R68 symbol association from  to /f9db7277-172b-4f7d-b8c7-99a3d2f49939.
+Updated R68 fields.
+Updated R68 sheetname to '/'.
+Updated R68 sheetfile to 'BOOST.kicad_sch'.
+Connected R68 pin 1 to Net-(U14-In+).
+Connected R68 pin 2 to GND.
+Updated R68 unit metadata.
+Updated C8 fields.
+Added R69 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R69.
+Changed R69 value from R_0603_1608Metric to 20k.
+Updated R69 symbol association from  to /090cf483-cc89-428f-aa13-1776e8bc97d8.
+Updated R69 fields.
+Updated R69 sheetname to '/'.
+Updated R69 sheetfile to 'BOOST.kicad_sch'.
+Connected R69 pin 1 to Net-(U14-In+).
+Connected R69 pin 2 to 5V.
+Updated R69 unit metadata.
+Updated C8 sheetname to '/'.
+Added R70 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R70.
+Changed R70 value from R_0805_2012Metric to 5.1.
+Updated R70 symbol association from  to /11dd724c-1d66-42e0-98aa-1cdf44292cd9.
+Updated R70 fields.
+Updated R70 sheetname to '/'.
+Updated R70 sheetfile to 'BOOST.kicad_sch'.
+Connected R70 pin 2 to GATE_M6.
+Connected R70 pin 1 to Net-(D8--).
+Updated R70 unit metadata.
+Updated C8 sheetfile to 'BOOST.kicad_sch'.
+Added R71 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R71.
+Changed R71 value from R_0603_1608Metric to 1k.
+Updated R71 symbol association from  to /a7cad4f0-6cd7-4645-8493-641abe6b3760.
+Updated R71 fields.
+Updated R71 sheetname to '/'.
+Updated R71 sheetfile to 'BOOST.kicad_sch'.
+Connected R71 pin 2 to low_error_timeout.
+Connected R71 pin 1 to Net-(D4--).
+Updated R71 unit metadata.
+Connected C8 pin 1 to GND.
+Added R72 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R72.
+Changed R72 value from R_0805_2012Metric to 5.
+Updated R72 symbol association from  to /d7906899-6a27-4cc4-ba82-45b230385c93.
+Updated R72 fields.
+Updated R72 sheetname to '/'.
+Updated R72 sheetfile to 'BOOST.kicad_sch'.
+Connected R72 pin 2 to Net-(U8-VDDA).
+Connected R72 pin 1 to Net-(D21--).
+Updated R72 unit metadata.
+Add net Net-(C8-Pad2).
+Added R73 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R73.
+Changed R73 value from R_0603_1608Metric to 10k.
+Updated R73 symbol association from  to /ec36dc99-9b10-49fc-886f-1d0d49e3715e.
+Updated R73 fields.
+Updated R73 sheetname to '/'.
+Updated R73 sheetfile to 'BOOST.kicad_sch'.
+Connected R73 pin 1 to m4_source.
+Connected R73 pin 2 to GATE_M4.
+Updated R73 unit metadata.
+Connected C8 pin 2 to Net-(C8-Pad2).
+Added R74 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R74.
+Changed R74 value from R_0603_1608Metric to 10k.
+Updated R74 symbol association from  to /22943188-1c27-4229-9c81-ab18226b07b2.
+Updated R74 fields.
+Updated R74 sheetname to '/'.
+Updated R74 sheetfile to 'BOOST.kicad_sch'.
+Connected R74 pin 1 to m4_source.
+Connected R74 pin 2 to GATE_M5.
+Updated R74 unit metadata.
+Updated C8 unit metadata.
+Added R75 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R75.
+Changed R75 value from R_0603_1608Metric to 10k.
+Updated R75 symbol association from  to /13eebd83-d349-4132-a994-4a57912a3ead.
+Updated R75 fields.
+Updated R75 sheetname to '/'.
+Updated R75 sheetfile to 'BOOST.kicad_sch'.
+Connected R75 pin 2 to GATE_M2.
+Connected R75 pin 1 to m2_source.
+Updated R75 unit metadata.
+Added C9 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R76 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R76.
+Changed R76 value from R_0603_1608Metric to 10k.
+Updated R76 symbol association from  to /78f2d828-6d01-4ca3-97c4-1c4332aa949a.
+Updated R76 fields.
+Updated R76 sheetname to '/'.
+Updated R76 sheetfile to 'BOOST.kicad_sch'.
+Connected R76 pin 1 to m2_source.
+Connected R76 pin 2 to GATE_M7.
+Updated R76 unit metadata.
+Changed REF** reference designator to C9.
+Added R77 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R77.
+Changed R77 value from R_0603_1608Metric to 10k.
+Updated R77 symbol association from  to /1b7bd25b-85b1-42ed-b9dd-15d47d3246f7.
+Updated R77 fields.
+Updated R77 sheetname to '/'.
+Updated R77 sheetfile to 'BOOST.kicad_sch'.
+Connected R77 pin 1 to Vref_3_arduino.
+Connected R77 pin 2 to Vref_3.
+Updated R77 unit metadata.
+Changed C9 value from C_0603_1608Metric to 330p.
+Added R78 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R78.
+Changed R78 value from R_0603_1608Metric to 2k.
+Updated R78 symbol association from  to /27e6dfb4-2e88-4dde-8b98-071cd5aaf8ca.
+Updated R78 fields.
+Updated R78 sheetname to '/'.
+Updated R78 sheetfile to 'BOOST.kicad_sch'.
+Connected R78 pin 1 to Net-(C9-Pad2).
+Connected R78 pin 2 to Net-(D7-+).
+Updated R78 unit metadata.
+Updated C9 symbol association from  to /9efdab95-8ee3-485a-803a-1f14a6810773.
+Added R79 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R79.
+Changed R79 value from R_0603_1608Metric to 220.
+Updated R79 symbol association from  to /a780b652-82e6-4efe-bf32-072c557a81d0.
+Updated R79 fields.
+Updated R79 sheetname to '/'.
+Updated R79 sheetfile to 'BOOST.kicad_sch'.
+Connected R79 pin 1 to Net-(C9-Pad2).
+Connected R79 pin 2 to Net-(D7--).
+Updated R79 unit metadata.
+Updated C9 fields.
+Added R80 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R80.
+Changed R80 value from R_0603_1608Metric to 2k.
+Updated R80 symbol association from  to /de9e2d6c-5166-437c-8b89-7a5f378b3da5.
+Updated R80 fields.
+Updated R80 sheetname to '/'.
+Updated R80 sheetfile to 'BOOST.kicad_sch'.
+Connected R80 pin 2 to Net-(D20-+).
+Connected R80 pin 1 to Net-(C17-Pad2).
+Updated R80 unit metadata.
+Updated C9 sheetname to '/'.
+Added R81 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R81.
+Changed R81 value from R_0603_1608Metric to 220.
+Updated R81 symbol association from  to /b68733e8-3f86-4001-bcbf-2c95ac67eba2.
+Updated R81 fields.
+Updated R81 sheetname to '/'.
+Updated R81 sheetfile to 'BOOST.kicad_sch'.
+Connected R81 pin 2 to Net-(D20--).
+Connected R81 pin 1 to Net-(C17-Pad2).
+Updated R81 unit metadata.
+Updated C9 sheetfile to 'BOOST.kicad_sch'.
+Added R82 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R82.
+Changed R82 value from R_0603_1608Metric to 56k.
+Updated R82 symbol association from  to /ab3491ba-3544-4316-a213-8a529ce3c7d5.
+Updated R82 fields.
+Updated R82 sheetname to '/'.
+Updated R82 sheetfile to 'BOOST.kicad_sch'.
+Connected R82 pin 1 to 5V.
+Add net Net-(U21-In+).
+Connected R82 pin 2 to Net-(U21-In+).
+Updated R82 unit metadata.
+Add net Net-(C9-Pad2).
+Added R83 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R83.
+Changed R83 value from R_0603_1608Metric to 10k.
+Updated R83 symbol association from  to /27f4681a-0889-4035-b104-fcfc37555603.
+Updated R83 fields.
+Updated R83 sheetname to '/'.
+Updated R83 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U21-In-).
+Connected R83 pin 1 to Net-(U21-In-).
+Connected R83 pin 2 to GND.
+Updated R83 unit metadata.
+Connected C9 pin 2 to Net-(C9-Pad2).
+Added R84 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R84.
+Changed R84 value from R_0603_1608Metric to 120k.
+Updated R84 symbol association from  to /7bee0b8d-0b66-42d3-8db8-34f7ca92dc9a.
+Updated R84 fields.
+Updated R84 sheetname to '/'.
+Updated R84 sheetfile to 'BOOST.kicad_sch'.
+Connected R84 pin 1 to 12V.
+Connected R84 pin 2 to Net-(U21-In-).
+Updated R84 unit metadata.
+Connected C9 pin 1 to GND.
+Added R85 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R85.
+Changed R85 value from R_0603_1608Metric to 10k.
+Updated R85 symbol association from  to /1d417c52-3a9b-4637-a72b-42abcf4b85b9.
+Updated R85 fields.
+Updated R85 sheetname to '/'.
+Updated R85 sheetfile to 'BOOST.kicad_sch'.
+Connected R85 pin 2 to GND.
+Connected R85 pin 1 to Net-(U21-In+).
+Updated R85 unit metadata.
+Updated C9 unit metadata.
+Added R86 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R86.
+Changed R86 value from R_0805_2012Metric to 1Meg.
+Updated R86 symbol association from  to /ca623a4c-a05f-482a-a46f-18a2572d5c5c.
+Updated R86 fields.
+Updated R86 sheetname to '/'.
+Updated R86 sheetfile to 'BOOST.kicad_sch'.
+Connected R86 pin 1 to Net-(D24-+).
+Connected R86 pin 2 to Net-(U21-In+).
+Updated R86 unit metadata.
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R87 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R87.
+Changed R87 value from R_0805_2012Metric to 910k.
+Updated R87 symbol association from  to /4fb27c00-5fae-4aff-a503-cb860982c656.
+Updated R87 fields.
+Updated R87 sheetname to '/'.
+Updated R87 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U106A-A).
+Connected R87 pin 2 to Net-(U106A-A).
+Connected R87 pin 1 to Output3_drain.
+Updated R87 unit metadata.
+Changed REF** reference designator to C10.
+Added R88 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R88.
+Changed R88 value from R_0603_1608Metric to 100k.
+Updated R88 symbol association from  to /e15ba803-58e9-4919-8532-0ba7f53bd777.
+Updated R88 fields.
+Updated R88 sheetname to '/'.
+Updated R88 sheetfile to 'BOOST.kicad_sch'.
+Connected R88 pin 2 to GND.
+Connected R88 pin 1 to Net-(U106A-A).
+Updated R88 unit metadata.
+Changed C10 value from C_0603_1608Metric to 4.7n.
+Added R89 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R89.
+Changed R89 value from R_0603_1608Metric to 3.3k.
+Updated R89 symbol association from  to /bffa43c3-4fb5-495c-9dab-a01c7d8afeb5.
+Updated R89 fields.
+Updated R89 sheetname to '/'.
+Updated R89 sheetfile to 'BOOST.kicad_sch'.
+Connected R89 pin 1 to Net-(U22-In+).
+Connected R89 pin 2 to GND.
+Updated R89 unit metadata.
+Updated C10 symbol association from  to /bc5a1661-be01-4474-a1d9-6d9f256a5a17.
+Added R90 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R90.
+Changed R90 value from R_0603_1608Metric to 10Meg.
+Updated R90 symbol association from  to /4d550ab7-12fc-4f1c-9e60-2799a448f9dd.
+Updated R90 fields.
+Updated R90 sheetname to '/'.
+Updated R90 sheetfile to 'BOOST.kicad_sch'.
+Connected R90 pin 2 to Net-(D23-+).
+Connected R90 pin 1 to Net-(U106A-B).
+Updated R90 unit metadata.
+Updated C10 fields.
+Added R91 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R91.
+Changed R91 value from R_0603_1608Metric to 100k.
+Updated R91 symbol association from  to /bb9e3e1d-ef7a-4575-a1e3-fb381502aa9a.
+Updated R91 fields.
+Updated R91 sheetname to '/'.
+Updated R91 sheetfile to 'BOOST.kicad_sch'.
+Connected R91 pin 2 to Net-(U23-In+).
+Connected R91 pin 1 to analog_5V.
+Updated R91 unit metadata.
+Updated C10 sheetname to '/'.
+Added R92 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R92.
+Changed R92 value from R_0603_1608Metric to 3.3k.
+Updated R92 symbol association from  to /0fd6896e-0b94-4737-906c-59f64c6d3cba.
+Updated R92 fields.
+Updated R92 sheetname to '/'.
+Updated R92 sheetfile to 'BOOST.kicad_sch'.
+Connected R92 pin 1 to Net-(U23-In+).
+Connected R92 pin 2 to GND.
+Updated R92 unit metadata.
+Updated C10 sheetfile to 'BOOST.kicad_sch'.
+Added R93 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R93.
+Changed R93 value from R_0603_1608Metric to 10Meg.
+Updated R93 symbol association from  to /71074b87-eab7-49f7-8c7b-19083dfb5409.
+Updated R93 fields.
+Updated R93 sheetname to '/'.
+Updated R93 sheetfile to 'BOOST.kicad_sch'.
+Connected R93 pin 2 to Net-(D25-+).
+Connected R93 pin 1 to Net-(U106B-B).
+Updated R93 unit metadata.
+Add net Verr3.
+Added R94 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R94.
+Changed R94 value from R_0805_2012Metric to 910k.
+Updated R94 symbol association from  to /919f9a64-a362-4967-b9d2-ac52ecf221ef.
+Updated R94 fields.
+Updated R94 sheetname to '/'.
+Updated R94 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U106C-A).
+Connected R94 pin 2 to Net-(U106C-A).
+Connected R94 pin 1 to Output1_drain.
+Updated R94 unit metadata.
+Connected C10 pin 2 to Verr3.
+Added R95 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R95.
+Changed R95 value from R_0603_1608Metric to 100k.
+Updated R95 symbol association from  to /73e1b777-6f0b-4a07-8df2-7853173684b5.
+Updated R95 fields.
+Updated R95 sheetname to '/'.
+Updated R95 sheetfile to 'BOOST.kicad_sch'.
+Connected R95 pin 2 to GND.
+Connected R95 pin 1 to Net-(U106C-A).
+Updated R95 unit metadata.
+Connected C10 pin 1 to GND.
+Added R96 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R96.
+Changed R96 value from R_0603_1608Metric to 100k.
+Updated R96 symbol association from  to /08d6fff9-1f1f-4527-ad84-7a5ee7b294cc.
+Updated R96 fields.
+Updated R96 sheetname to '/'.
+Updated R96 sheetfile to 'BOOST.kicad_sch'.
+Connected R96 pin 1 to analog_5V.
+Connected R96 pin 2 to Net-(U24-In+).
+Updated R96 unit metadata.
+Updated C10 unit metadata.
+Added R97 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R97.
+Changed R97 value from R_0603_1608Metric to 3.3k.
+Updated R97 symbol association from  to /f95a937f-01b4-4c80-8c52-fdaa2a6e6db2.
+Updated R97 fields.
+Updated R97 sheetname to '/'.
+Updated R97 sheetfile to 'BOOST.kicad_sch'.
+Connected R97 pin 1 to Net-(U24-In+).
+Connected R97 pin 2 to GND.
+Updated R97 unit metadata.
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added R98 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R98.
+Changed R98 value from R_0603_1608Metric to 10Meg.
+Updated R98 symbol association from  to /29f0d607-ada4-48fb-a091-96f53ccd3119.
+Updated R98 fields.
+Updated R98 sheetname to '/'.
+Updated R98 sheetfile to 'BOOST.kicad_sch'.
+Connected R98 pin 2 to Net-(D26-+).
+Connected R98 pin 1 to Net-(U106C-B).
+Updated R98 unit metadata.
+Changed REF** reference designator to C11.
+Added R99 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R99.
+Changed R99 value from R_0603_1608Metric to 10k.
+Updated R99 symbol association from  to /d07e6f3e-d79b-43c8-9b5e-e3b364b58a6a.
+Updated R99 fields.
+Updated R99 sheetname to '/'.
+Updated R99 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U26E-A1).
+Connected R99 pin 1 to Net-(U26E-A1).
+Connected R99 pin 2 to GND.
+Updated R99 unit metadata.
+Changed C11 value from C_0603_1608Metric to 4.7n.
+Added R100 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R100.
+Changed R100 value from R_0603_1608Metric to 10k.
+Updated R100 symbol association from  to /7d1f9399-d86d-467b-a461-0b60b5eb9ed5.
+Updated R100 fields.
+Updated R100 sheetname to '/'.
+Updated R100 sheetfile to 'BOOST.kicad_sch'.
+Connected R100 pin 1 to Vref_2_arduino.
+Connected R100 pin 2 to Vref_2.
+Updated R100 unit metadata.
+Updated C11 symbol association from  to /bfcbb4c1-6ac3-44c3-976b-2260b684154c.
+Added R101 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R101.
+Changed R101 value from R_0603_1608Metric to 10k.
+Updated R101 symbol association from  to /f21ebdbe-e68a-416c-b586-e2ca4706f7d3.
+Updated R101 fields.
+Updated R101 sheetname to '/'.
+Updated R101 sheetfile to 'BOOST.kicad_sch'.
+Connected R101 pin 1 to Vref_1_arduino.
+Connected R101 pin 2 to Vref_1.
+Updated R101 unit metadata.
+Updated C11 fields.
+Added R102 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R102.
+Changed R102 value from R_0603_1608Metric to 10k.
+Updated R102 symbol association from  to /a3df8fae-7e55-495d-a9cf-a3614b12f71a.
+Updated R102 fields.
+Updated R102 sheetname to '/'.
+Updated R102 sheetfile to 'BOOST.kicad_sch'.
+Connected R102 pin 2 to GND.
+Add net Net-(U26E-HVC/A0).
+Connected R102 pin 1 to Net-(U26E-HVC/A0).
+Updated R102 unit metadata.
+Updated C11 sheetname to '/'.
+Added R103 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R103.
+Changed R103 value from R_0603_1608Metric to 10k.
+Updated R103 symbol association from  to /ea53bb42-062c-4148-9365-8dd79ff9dae9.
+Updated R103 fields.
+Updated R103 sheetname to '/'.
+Updated R103 sheetfile to 'BOOST.kicad_sch'.
+Add net Net-(U26E-~{RESET}).
+Connected R103 pin 2 to Net-(U26E-~{RESET}).
+Connected R103 pin 1 to 5V.
+Updated R103 unit metadata.
+Updated C11 sheetfile to 'BOOST.kicad_sch'.
+Added R104 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R104.
+Changed R104 value from R_0603_1608Metric to 10k.
+Updated R104 symbol association from  to /2bd8d9d2-8e22-4d3e-af99-6f2c3efa9948.
+Updated R104 fields.
+Updated R104 sheetname to '/'.
+Updated R104 sheetfile to 'BOOST.kicad_sch'.
+Connected R104 pin 1 to GATE_M1.
+Connected R104 pin 2 to GND.
+Updated R104 unit metadata.
+Add net Verr2.
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-89-3').
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-89-3 to L78L05_SOT89.
+Updated U1 symbol association from  to /bb8e0db9-c055-49a9-b2b1-1b4a3d58b3f5.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'BOOST.kicad_sch'.
+Updated U1 footprint filters to 'SOT?89*'.
+Connected U1 pin 3 to Vin.
+Connected U1 pin 1 to analog_5V.
+Connected U1 pin 2 to GND.
+Updated U1 unit metadata.
+Connected C11 pin 2 to Verr2.
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-23-5 to MCP6561.
+Updated U2 symbol association from  to /bfecc4f2-2272-48c3-a833-fd5a9664f5ae.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'BOOST.kicad_sch'.
+Add net Current.
+Connected U2 pin 4 to Current.
+Connected U2 pin 1 to 0A_hi.
+Connected U2 pin 5 to 5V.
+Connected U2 pin 2 to GND.
+Connected U2 pin 3 to Net-(U2-In+).
+Updated U2 unit metadata.
+Connected C11 pin 1 to GND.
+Added U3 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U3.
+Changed U3 value from SOT-23-5 to MCP6241.
+Updated U3 symbol association from  to /fd77e166-3ea4-41ba-bd24-161897198387.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'BOOST.kicad_sch'.
+Connected U3 pin 2 to GND.
+Connected U3 pin 5 to analog_5V.
+Connected U3 pin 1 to Voltage_err_1.
+Connected U3 pin 3 to .1Vref_1.
+Connected U3 pin 4 to Net-(U3-In-).
+Updated U3 unit metadata.
+Updated C11 unit metadata.
+Added U4 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U4.
+Changed U4 value from SOT-23-5 to MCP6561.
+Updated U4 symbol association from  to /49627505-2cd3-4851-894a-9a004bc1f248.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'BOOST.kicad_sch'.
+Connected U4 pin 1 to 0err_hi.
+Add net V_err.
+Connected U4 pin 4 to V_err.
+Connected U4 pin 2 to GND.
+Connected U4 pin 3 to Net-(U4-In+).
+Connected U4 pin 5 to 5V.
+Updated U4 unit metadata.
+Added C12 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added U5 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U5.
+Changed U5 value from SOT-23-5 to MCP6561.
+Updated U5 symbol association from  to /951a0f4b-7d68-4220-a859-0f7cc210206d.
+Updated U5 fields.
+Updated U5 sheetname to '/'.
+Updated U5 sheetfile to 'BOOST.kicad_sch'.
+Connected U5 pin 3 to Current.
+Connected U5 pin 2 to GND.
+Connected U5 pin 5 to 5V.
+Connected U5 pin 4 to V_err.
+Add net Reset_raw.
+Connected U5 pin 1 to Reset_raw.
+Updated U5 unit metadata.
+Changed REF** reference designator to C12.
+Added U6 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U6.
+Changed U6 value from SOT-23-5 to MCP6241.
+Updated U6 symbol association from  to /21815d9a-b09e-40b2-beec-b7b5e69a9858.
+Updated U6 fields.
+Updated U6 sheetname to '/'.
+Updated U6 sheetfile to 'BOOST.kicad_sch'.
+Connected U6 pin 1 to Net-(U6-OUT).
+Add net IREF3_input.
+Connected U6 pin 3 to IREF3_input.
+Connected U6 pin 4 to Net-(M8-S).
+Connected U6 pin 2 to GND.
+Connected U6 pin 5 to analog_5V.
+Updated U6 unit metadata.
+Changed C12 value from C_0603_1608Metric to 100n.
+Added U7 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U7.
+Changed U7 value from SOT-23-5 to MCP6241.
+Updated U7 symbol association from  to /00bd9fe7-1f41-4d9a-a2d3-25c508fb6a0b.
+Updated U7 fields.
+Updated U7 sheetname to '/'.
+Updated U7 sheetfile to 'BOOST.kicad_sch'.
+Connected U7 pin 4 to Net-(U7-In-).
+Connected U7 pin 2 to GND.
+Connected U7 pin 1 to Voltage_err_2.
+Connected U7 pin 5 to analog_5V.
+Connected U7 pin 3 to .1Vref_2.
+Updated U7 unit metadata.
+Updated C12 symbol association from  to /0e04c4cd-f2b5-43e4-a295-120d09de61b8.
+Added U8 (footprint 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm').
+Changed REF** reference designator to U8.
+Changed U8 value from SOIC-16W_7.5x10.3mm_P1.27mm to UCC21520DW.
+Updated U8 symbol association from  to /e0e24db3-6eb5-4f19-b538-11c16b760c46.
+Updated U8 fields.
+Updated U8 sheetname to '/'.
+Updated U8 sheetfile to 'BOOST.kicad_sch'.
+Updated U8 footprint filters to 'SOIC*7.5x10.3mm*P1.27mm*'.
+Connected U8 pin 9 to m4_source.
+Connected U8 pin 4 to GND.
+Connected U8 pin 10 to Net-(D22--).
+Connected U8 pin 14 to m4_source.
+Connected U8 pin 8 to 5V.
+Connected U8 pin 3 to 5V.
+Add net out_3_on.
+Connected U8 pin 1 to out_3_on.
+Add net unconnected-(U8-NC-Pad13).
+Connected U8 pin 13 to unconnected-(U8-NC-Pad13).
+Connected U8 pin 11 to Net-(U8-VDDA).
+Connected U8 pin 6 to 5V.
+Add net ena_out_3.
+Connected U8 pin 2 to ena_out_3.
+Add net unconnected-(U8-NC-Pad12).
+Connected U8 pin 12 to unconnected-(U8-NC-Pad12).
+Connected U8 pin 16 to Net-(U8-VDDA).
+Connected U8 pin 15 to Net-(D13--).
+Add net unconnected-(U8-NC-Pad7).
+Connected U8 pin 7 to unconnected-(U8-NC-Pad7).
+Connected U8 pin 5 to GND.
+Updated U8 unit metadata.
+Updated C12 fields.
+Added U10 (footprint 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm').
+Changed REF** reference designator to U10.
+Changed U10 value from SOIC-16W_7.5x10.3mm_P1.27mm to UCC21520DW.
+Updated U10 symbol association from  to /3e90e07d-4057-4192-8874-1fcae5e599e4.
+Updated U10 fields.
+Updated U10 sheetname to '/'.
+Updated U10 sheetfile to 'BOOST.kicad_sch'.
+Updated U10 footprint filters to 'SOIC*7.5x10.3mm*P1.27mm*'.
+Connected U10 pin 8 to 5V.
+Connected U10 pin 10 to Net-(D8--).
+Connected U10 pin 4 to GND.
+Connected U10 pin 11 to Net-(U10-VDDA).
+Connected U10 pin 9 to m3_source.
+Connected U10 pin 16 to Net-(U10-VDDA).
+Add net unconnected-(U10-NC-Pad12).
+Connected U10 pin 12 to unconnected-(U10-NC-Pad12).
+Connected U10 pin 5 to GND.
+Connected U10 pin 6 to 5V.
+Connected U10 pin 15 to Net-(D14--).
+Connected U10 pin 3 to 5V.
+Add net ena_out_2.
+Connected U10 pin 2 to ena_out_2.
+Add net unconnected-(U10-NC-Pad13).
+Connected U10 pin 13 to unconnected-(U10-NC-Pad13).
+Add net out_2_on.
+Connected U10 pin 1 to out_2_on.
+Add net unconnected-(U10-NC-Pad7).
+Connected U10 pin 7 to unconnected-(U10-NC-Pad7).
+Connected U10 pin 14 to m3_source.
+Updated U10 unit metadata.
+Updated C12 sheetname to '/'.
+Added U11 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U11.
+Changed U11 value from SOT-23-5 to MCP6241.
+Updated U11 symbol association from  to /09e25818-d3be-4967-b4c0-9ca926ee0bda.
+Updated U11 fields.
+Updated U11 sheetname to '/'.
+Updated U11 sheetfile to 'BOOST.kicad_sch'.
+Connected U11 pin 4 to Net-(M10-S).
+Add net IREF1_input.
+Connected U11 pin 3 to IREF1_input.
+Connected U11 pin 5 to analog_5V.
+Connected U11 pin 2 to GND.
+Connected U11 pin 1 to Net-(U11-OUT).
+Updated U11 unit metadata.
+Updated C12 sheetfile to 'BOOST.kicad_sch'.
+Added U12 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U12.
+Changed U12 value from SOT-23-5 to MCP6241.
+Updated U12 symbol association from  to /6723db58-d54d-4835-95e6-f56b2f44c7a6.
+Updated U12 fields.
+Updated U12 sheetname to '/'.
+Updated U12 sheetfile to 'BOOST.kicad_sch'.
+Connected U12 pin 2 to GND.
+Connected U12 pin 1 to Net-(U12-OUT).
+Add net IREF2_input.
+Connected U12 pin 3 to IREF2_input.
+Connected U12 pin 4 to Net-(M9-S).
+Connected U12 pin 5 to analog_5V.
+Updated U12 unit metadata.
+Connected C12 pin 1 to 5V.
+Added U13 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U13.
+Changed U13 value from SOT-23-5 to MCP6241.
+Updated U13 symbol association from  to /5509a0d0-1ee9-4365-ae2d-602944b2d24b.
+Updated U13 fields.
+Updated U13 sheetname to '/'.
+Updated U13 sheetfile to 'BOOST.kicad_sch'.
+Connected U13 pin 2 to GND.
+Connected U13 pin 4 to Net-(U13-In-).
+Connected U13 pin 1 to Voltage_err_3.
+Connected U13 pin 3 to .1Vref_3.
+Connected U13 pin 5 to analog_5V.
+Updated U13 unit metadata.
+Connected C12 pin 2 to GND.
+Added U14 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U14.
+Changed U14 value from SOT-23-5 to MCP6561.
+Updated U14 symbol association from  to /5e22260f-dfad-4b9e-98f2-0bcf972d2d5f.
+Updated U14 fields.
+Updated U14 sheetname to '/'.
+Updated U14 sheetfile to 'BOOST.kicad_sch'.
+Connected U14 pin 2 to GND.
+Connected U14 pin 4 to Net-(Q1-E).
+Connected U14 pin 1 to low_error_timeout.
+Connected U14 pin 5 to 5V.
+Connected U14 pin 3 to Net-(U14-In+).
+Updated U14 unit metadata.
+Updated C12 unit metadata.
+Added U15 (footprint 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm').
+Changed REF** reference designator to U15.
+Changed U15 value from SOIC-16W_7.5x10.3mm_P1.27mm to UCC21520DW.
+Updated U15 symbol association from  to /202d2fa1-6ea8-48f6-ad35-49a3e16e6315.
+Updated U15 fields.
+Updated U15 sheetname to '/'.
+Updated U15 sheetfile to 'BOOST.kicad_sch'.
+Updated U15 footprint filters to 'SOIC*7.5x10.3mm*P1.27mm*'.
+Connected U15 pin 9 to m2_source.
+Add net unconnected-(U15-NC-Pad7).
+Connected U15 pin 7 to unconnected-(U15-NC-Pad7).
+Connected U15 pin 14 to m2_source.
+Connected U15 pin 11 to Net-(U15-VDDA).
+Connected U15 pin 16 to Net-(U15-VDDA).
+Add net unconnected-(U15-NC-Pad13).
+Connected U15 pin 13 to unconnected-(U15-NC-Pad13).
+Connected U15 pin 4 to GND.
+Connected U15 pin 8 to 5V.
+Add net ena_out_1.
+Connected U15 pin 2 to ena_out_1.
+Add net unconnected-(U15-NC-Pad12).
+Connected U15 pin 12 to unconnected-(U15-NC-Pad12).
+Connected U15 pin 5 to GND.
+Connected U15 pin 3 to 5V.
+Connected U15 pin 6 to 5V.
+Add net M2_ON.
+Connected U15 pin 1 to M2_ON.
+Connected U15 pin 10 to Net-(D2--).
+Connected U15 pin 15 to Net-(D11--).
+Updated U15 unit metadata.
+Added C13 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added U16 (footprint 'Package_TO_SOT_SMD:TO-263-3_TabPin2').
+Changed REF** reference designator to U16.
+Changed U16 value from TO-263-3_TabPin2 to LM2940_12.
+Updated U16 symbol association from  to /d8536220-5760-483f-94bc-e2bfac667405.
+Updated U16 fields.
+Updated U16 sheetname to '/'.
+Updated U16 sheetfile to 'BOOST.kicad_sch'.
+Connected U16 pin 2 to GND.
+Connected U16 pin 2 to GND.
+Connected U16 pin 3 to 12V.
+Connected U16 pin 1 to Vin.
+Updated U16 unit metadata.
+Changed REF** reference designator to C13.
+Added U17 (footprint 'Package_TO_SOT_SMD:SOT-89-3').
+Changed REF** reference designator to U17.
+Changed U17 value from SOT-89-3 to L78L05_SOT89.
+Updated U17 symbol association from  to /1e36127a-55b1-4d92-baf6-d21850b5d763.
+Updated U17 fields.
+Updated U17 sheetname to '/'.
+Updated U17 sheetfile to 'BOOST.kicad_sch'.
+Updated U17 footprint filters to 'SOT?89*'.
+Connected U17 pin 2 to GND.
+Connected U17 pin 3 to Vin.
+Connected U17 pin 1 to 5V.
+Updated U17 unit metadata.
+Changed C13 value from C_0603_1608Metric to 4.7n.
+Added U18 (footprint 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm').
+Changed REF** reference designator to U18.
+Changed U18 value from SOIC-16_3.9x9.9mm_P1.27mm to 4017.
+Updated U18 symbol association from  to /f0e2c59f-2876-4166-b627-cbc024cf4168.
+Updated U18 fields.
+Updated U18 sheetname to '/'.
+Updated U18 sheetfile to 'BOOST.kicad_sch'.
+Updated U18 footprint filters to 'DIP?16*'.
+Add net Net-(U102B-A).
+Connected U18 pin 3 to Net-(U102B-A).
+Connected U18 pin 16 to 5V.
+Add net Net-(U18-Q3).
+Connected U18 pin 7 to Net-(U18-Q3).
+Add net unconnected-(U18-Q6-Pad5).
+Connected U18 pin 5 to unconnected-(U18-Q6-Pad5).
+Add net Net-(U103A-A).
+Connected U18 pin 4 to Net-(U103A-A).
+Add net unconnected-(U18-Q9-Pad11).
+Connected U18 pin 11 to unconnected-(U18-Q9-Pad11).
+Connected U18 pin 15 to Net-(U18-Q3).
+Connected U18 pin 14 to low_error_timeout.
+Connected U18 pin 13 to Out-.
+Connected U18 pin 8 to GND.
+Add net unconnected-(U18-Cout-Pad12).
+Connected U18 pin 12 to unconnected-(U18-Cout-Pad12).
+Add net unconnected-(U18-Q4-Pad10).
+Connected U18 pin 10 to unconnected-(U18-Q4-Pad10).
+Add net Net-(U102C-A).
+Connected U18 pin 2 to Net-(U102C-A).
+Add net unconnected-(U18-Q7-Pad6).
+Connected U18 pin 6 to unconnected-(U18-Q7-Pad6).
+Add net unconnected-(U18-Q5-Pad1).
+Connected U18 pin 1 to unconnected-(U18-Q5-Pad1).
+Add net unconnected-(U18-Q8-Pad9).
+Connected U18 pin 9 to unconnected-(U18-Q8-Pad9).
+Updated U18 unit metadata.
+Updated C13 symbol association from  to /46822108-a22f-4b0d-a9ca-b6b3bef7e4dc.
+Added U19 (footprint 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm').
+Changed REF** reference designator to U19.
+Changed U19 value from SOIC-16W_7.5x10.3mm_P1.27mm to UCC21520DW.
+Updated U19 symbol association from  to /d0a16d2f-3809-4cb5-a1bb-e825b215fa28.
+Updated U19 fields.
+Updated U19 sheetname to '/'.
+Updated U19 sheetfile to 'BOOST.kicad_sch'.
+Updated U19 footprint filters to 'SOIC*7.5x10.3mm*P1.27mm*'.
+Connected U19 pin 10 to Net-(U19-OUTB).
+Connected U19 pin 8 to 5V.
+Add net unconnected-(U19-NC-Pad12).
+Connected U19 pin 12 to unconnected-(U19-NC-Pad12).
+Connected U19 pin 2 to GND.
+Connected U19 pin 11 to 12V.
+Connected U19 pin 9 to GND.
+Connected U19 pin 16 to 12V.
+Connected U19 pin 5 to GND.
+Connected U19 pin 3 to 5V.
+Connected U19 pin 6 to 5V.
+Add net unconnected-(U19-NC-Pad13).
+Connected U19 pin 13 to unconnected-(U19-NC-Pad13).
+Connected U19 pin 4 to GND.
+Add net M1_ON.
+Connected U19 pin 1 to M1_ON.
+Add net unconnected-(U19-NC-Pad7).
+Connected U19 pin 7 to unconnected-(U19-NC-Pad7).
+Connected U19 pin 15 to Net-(D12--).
+Connected U19 pin 14 to GND.
+Updated U19 unit metadata.
+Updated C13 fields.
+Added U21 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U21.
+Changed U21 value from SOT-23-5 to MCP6561.
+Updated U21 symbol association from  to /6fc812ba-e1a0-423b-b9cc-7485dad2fcfe.
+Updated U21 fields.
+Updated U21 sheetname to '/'.
+Updated U21 sheetfile to 'BOOST.kicad_sch'.
+Connected U21 pin 3 to Net-(U21-In+).
+Connected U21 pin 5 to 5V.
+Connected U21 pin 1 to Net-(D24-+).
+Connected U21 pin 4 to Net-(U21-In-).
+Connected U21 pin 2 to GND.
+Updated U21 unit metadata.
+Updated C13 sheetname to '/'.
+Added U22 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U22.
+Changed U22 value from SOT-23-5 to MCP6241.
+Updated U22 symbol association from  to /e0f56171-eb16-4094-a023-f3eb988071a0.
+Updated U22 fields.
+Updated U22 sheetname to '/'.
+Updated U22 sheetfile to 'BOOST.kicad_sch'.
+Connected U22 pin 3 to Net-(U22-In+).
+Connected U22 pin 2 to GND.
+Connected U22 pin 4 to Net-(U106A-B).
+Connected U22 pin 1 to Net-(D23-+).
+Connected U22 pin 5 to analog_5V.
+Updated U22 unit metadata.
+Updated C13 sheetfile to 'BOOST.kicad_sch'.
+Added U23 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U23.
+Changed U23 value from SOT-23-5 to MCP6241.
+Updated U23 symbol association from  to /4301fc67-8d32-4693-91ec-160d47f4fbd6.
+Updated U23 fields.
+Updated U23 sheetname to '/'.
+Updated U23 sheetfile to 'BOOST.kicad_sch'.
+Connected U23 pin 1 to Net-(D25-+).
+Connected U23 pin 3 to Net-(U23-In+).
+Connected U23 pin 4 to Net-(U106B-B).
+Connected U23 pin 2 to GND.
+Connected U23 pin 5 to analog_5V.
+Updated U23 unit metadata.
+Add net Verr1.
+Added U24 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U24.
+Changed U24 value from SOT-23-5 to MCP6241.
+Updated U24 symbol association from  to /10e821d2-8c20-43f0-8eed-d961b84851aa.
+Updated U24 fields.
+Updated U24 sheetname to '/'.
+Updated U24 sheetfile to 'BOOST.kicad_sch'.
+Connected U24 pin 2 to GND.
+Connected U24 pin 5 to analog_5V.
+Connected U24 pin 3 to Net-(U24-In+).
+Connected U24 pin 1 to Net-(D26-+).
+Connected U24 pin 4 to Net-(U106C-B).
+Updated U24 unit metadata.
+Connected C13 pin 2 to Verr1.
+Added U25 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U25.
+Changed U25 value from SOIC-8_3.9x4.9mm_P1.27mm to INA241A3xD.
+Updated U25 symbol association from  to /4f98bd6c-7e06-45cc-9636-40803efc3719.
+Updated U25 fields.
+Updated U25 sheetname to '/'.
+Updated U25 sheetfile to 'BOOST.kicad_sch'.
+Updated U25 footprint filters to 'SOIC*3.9x4.9mm*P1.27mm*'.
+Connected U25 pin 1 to rsense_lo.
+Connected U25 pin 6 to analog_5V.
+Connected U25 pin 7 to GND.
+Connected U25 pin 8 to Vin.
+Connected U25 pin 3 to GND.
+Connected U25 pin 5 to Current.
+Connected U25 pin 2 to GND.
+Connected U25 pin 4 to GND.
+Updated U25 unit metadata.
+Connected C13 pin 1 to GND.
+Added U26 (footprint 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm').
+Changed REF** reference designator to U26.
+Changed U26 value from TSSOP-20_4.4x6.5mm_P0.65mm to MCP4451-xxxx-ST.
+Updated U26 symbol association from  to /9cbe7f34-4baa-4699-ad43-fa95faeb0b98.
+Updated U26 fields.
+Updated U26 sheetname to '/'.
+Updated U26 sheetfile to 'BOOST.kicad_sch'.
+Updated U26 footprint filters to 'TSSOP*4.4x6.5mm*P0.65mm*'.
+Connected U26 pin 9 to IREF2_input.
+Connected U26 pin 5 to SCL.
+Connected U26 pin 20 to GND.
+Connected U26 pin 15 to Net-(U26E-~{RESET}).
+Add net unconnected-(U26D-P3W-Pad2).
+Connected U26 pin 2 to unconnected-(U26D-P3W-Pad2).
+Connected U26 pin 13 to Net-(U26A-P0B).
+Add net unconnected-(U26E-NC-Pad14).
+Connected U26 pin 14 to unconnected-(U26E-NC-Pad14).
+Connected U26 pin 11 to GND.
+Connected U26 pin 16 to Net-(U26E-A1).
+Connected U26 pin 19 to IREF3_input.
+Connected U26 pin 4 to Net-(U26E-HVC/A0).
+Connected U26 pin 8 to Net-(U26B-P1B).
+Connected U26 pin 10 to GND.
+Connected U26 pin 18 to Net-(U26C-P2B).
+Connected U26 pin 6 to SDA.
+Connected U26 pin 17 to 5V.
+Add net unconnected-(U26D-P3B-Pad3).
+Connected U26 pin 3 to unconnected-(U26D-P3B-Pad3).
+Connected U26 pin 7 to GND.
+Connected U26 pin 12 to IREF1_input.
+Add net unconnected-(U26D-P3A-Pad1).
+Connected U26 pin 1 to unconnected-(U26D-P3A-Pad1).
+Updated U26 unit metadata.
+Updated C13 unit metadata.
+Added U28 (footprint 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm').
+Changed REF** reference designator to U28.
+Changed U28 value from SOIC-16_3.9x9.9mm_P1.27mm to 74HC4051.
+Updated U28 symbol association from  to /f4acfa54-8c9f-45fb-ac98-faecb988f25b.
+Updated U28 fields.
+Updated U28 sheetname to '/'.
+Updated U28 sheetfile to 'BOOST.kicad_sch'.
+Updated U28 footprint filters to 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* SOIC*5.3x10.2mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'.
+Connected U28 pin 9 to Net-(U103A-A).
+Connected U28 pin 7 to GND.
+Connected U28 pin 6 to GND.
+Connected U28 pin 5 to GND.
+Connected U28 pin 16 to 5V.
+Connected U28 pin 15 to Verr2.
+Connected U28 pin 14 to Verr1.
+Connected U28 pin 2 to GND.
+Connected U28 pin 4 to GND.
+Connected U28 pin 11 to Net-(U102B-A).
+Connected U28 pin 8 to GND.
+Connected U28 pin 13 to GND.
+Connected U28 pin 10 to Net-(U102C-A).
+Connected U28 pin 1 to Verr3.
+Connected U28 pin 3 to V_err.
+Connected U28 pin 12 to GND.
+Updated U28 unit metadata.
+Added C14 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added U101 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U101.
+Changed U101 value from SOIC-14_3.9x8.7mm_P1.27mm to 74HC00.
+Updated U101 symbol association from  to /b8800bdc-d026-44a0-9d99-d5cc8b2a70bf.
+Updated U101 fields.
+Updated U101 sheetname to '/'.
+Updated U101 sheetfile to 'BOOST.kicad_sch'.
+Connected U101 pin 7 to GND.
+Add net Out.
+Connected U101 pin 13 to Out.
+Connected U101 pin 9 to Out-.
+Connected U101 pin 10 to set-.
+Connected U101 pin 11 to Out-.
+Connected U101 pin 3 to Net-(U101A-Y).
+Connected U101 pin 5 to M1_ON.
+Add net RESET-.
+Connected U101 pin 12 to RESET-.
+Connected U101 pin 6 to RESET-.
+Connected U101 pin 14 to 5V.
+Connected U101 pin 4 to Reset_raw.
+Connected U101 pin 2 to 0A_hi.
+Add net VerrGT0.
+Connected U101 pin 1 to VerrGT0.
+Connected U101 pin 8 to Out.
+Updated U101 unit metadata.
+Changed REF** reference designator to C14.
+Added U102 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U102.
+Changed U102 value from SOIC-14_3.9x8.7mm_P1.27mm to 74HC00.
+Updated U102 symbol association from  to /71520016-465d-41eb-90ed-aab10c4ef102.
+Updated U102 fields.
+Updated U102 sheetname to '/'.
+Updated U102 sheetfile to 'BOOST.kicad_sch'.
+Connected U102 pin 2 to ena_out_1.
+Connected U102 pin 8 to Net-(D7-+).
+Connected U102 pin 6 to Net-(D20-+).
+Connected U102 pin 4 to Net-(U102B-A).
+Connected U102 pin 9 to VerrGT0.
+Add net Net-(U102A-Y).
+Connected U102 pin 3 to Net-(U102A-Y).
+Add net Net-(U102D-Y).
+Connected U102 pin 11 to Net-(U102D-Y).
+Connected U102 pin 13 to Out-.
+Connected U102 pin 12 to ena_out_2.
+Connected U102 pin 1 to Out-.
+Connected U102 pin 14 to 5V.
+Connected U102 pin 7 to GND.
+Connected U102 pin 10 to Net-(U102C-A).
+Connected U102 pin 5 to VerrGT0.
+Updated U102 unit metadata.
+Changed C14 value from C_0603_1608Metric to 220p.
+Added U103 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U103.
+Changed U103 value from SOIC-14_3.9x8.7mm_P1.27mm to 74HC00.
+Updated U103 symbol association from  to /dd25af3c-dbf3-4389-939c-f6421cfe8057.
+Updated U103 sheetname to '/'.
+Updated U103 sheetfile to 'BOOST.kicad_sch'.
+Add net unconnected-(U103D-B-Pad12).
+Connected U103 pin 12 to unconnected-(U103D-B-Pad12).
+Add net unconnected-(U103C-Y-Pad8).
+Connected U103 pin 8 to unconnected-(U103C-Y-Pad8).
+Add net unconnected-(U103D-Y-Pad11).
+Connected U103 pin 11 to unconnected-(U103D-Y-Pad11).
+Add net unconnected-(U103D-A-Pad13).
+Connected U103 pin 13 to unconnected-(U103D-A-Pad13).
+Add net unconnected-(U103C-A-Pad10).
+Connected U103 pin 10 to unconnected-(U103C-A-Pad10).
+Connected U103 pin 7 to GND.
+Connected U103 pin 1 to Net-(U103A-A).
+Connected U103 pin 4 to ena_out_3.
+Connected U103 pin 14 to 5V.
+Connected U103 pin 3 to Net-(D5-+).
+Connected U103 pin 5 to Out-.
+Add net unconnected-(U103C-B-Pad9).
+Connected U103 pin 9 to unconnected-(U103C-B-Pad9).
+Add net Net-(U103B-Y).
+Connected U103 pin 6 to Net-(U103B-Y).
+Connected U103 pin 2 to VerrGT0.
+Updated U103 unit metadata.
+Updated C14 symbol association from  to /125d18f0-9485-4b1e-aff4-ecea3018cdb0.
+Added U104 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U104.
+Changed U104 value from SOIC-14_3.9x8.7mm_P1.27mm to 74HC14.
+Updated U104 symbol association from  to /97fa3fad-bbf8-4f22-8f32-c803d7b37740.
+Updated U104 fields.
+Updated U104 sheetname to '/'.
+Updated U104 sheetfile to 'BOOST.kicad_sch'.
+Connected U104 pin 4 to M2_ON.
+Connected U104 pin 3 to Net-(U102A-Y).
+Connected U104 pin 2 to M1_ON.
+Connected U104 pin 1 to Net-(D1--).
+Connected U104 pin 8 to out_3_on.
+Connected U104 pin 6 to out_2_on.
+Connected U104 pin 10 to VerrGT0.
+Connected U104 pin 5 to Net-(U102D-Y).
+Connected U104 pin 12 to ena_out_2.
+Connected U104 pin 13 to Net-(D7--).
+Connected U104 pin 14 to 5V.
+Connected U104 pin 11 to 0err_hi.
+Connected U104 pin 9 to Net-(U103B-Y).
+Connected U104 pin 7 to GND.
+Updated U104 unit metadata.
+Updated C14 fields.
+Added U105 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U105.
+Changed U105 value from SOIC-14_3.9x8.7mm_P1.27mm to 74HC14.
+Updated U105 symbol association from  to /c09cdd76-d6d1-42fa-b9e6-451a09cbf32c.
+Updated U105 sheetname to '/'.
+Updated U105 sheetfile to 'BOOST.kicad_sch'.
+Add net unconnected-(U105C-Y-Pad6).
+Connected U105 pin 6 to unconnected-(U105C-Y-Pad6).
+Add net unconnected-(U105F-A-Pad13).
+Connected U105 pin 13 to unconnected-(U105F-A-Pad13).
+Add net unconnected-(U105E-Y-Pad10).
+Connected U105 pin 10 to unconnected-(U105E-Y-Pad10).
+Add net unconnected-(U105D-Y-Pad8).
+Connected U105 pin 8 to unconnected-(U105D-Y-Pad8).
+Connected U105 pin 2 to ena_out_1.
+Add net unconnected-(U105F-Y-Pad12).
+Connected U105 pin 12 to unconnected-(U105F-Y-Pad12).
+Connected U105 pin 1 to Net-(D20--).
+Connected U105 pin 3 to Net-(D5--).
+Add net unconnected-(U105E-A-Pad11).
+Connected U105 pin 11 to unconnected-(U105E-A-Pad11).
+Add net unconnected-(U105C-A-Pad5).
+Connected U105 pin 5 to unconnected-(U105C-A-Pad5).
+Connected U105 pin 7 to GND.
+Connected U105 pin 4 to ena_out_3.
+Add net unconnected-(U105D-A-Pad9).
+Connected U105 pin 9 to unconnected-(U105D-A-Pad9).
+Connected U105 pin 14 to 5V.
+Updated U105 unit metadata.
+Updated C14 sheetname to '/'.
+Added U106 (footprint 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm').
+Changed REF** reference designator to U106.
+Changed U106 value from SOIC-14_3.9x8.7mm_P1.27mm to CD74HC4066.
+Updated U106 symbol association from  to /c8494d8f-971c-4e5b-9776-3ca274b516dd.
+Updated U106 fields.
+Updated U106 sheetname to '/'.
+Updated U106 sheetfile to 'BOOST.kicad_sch'.
+Connected U106 pin 2 to Net-(U106A-B).
+Add net unconnected-(U106D-A-Pad11).
+Connected U106 pin 11 to unconnected-(U106D-A-Pad11).
+Add net unconnected-(U106D-B-Pad10).
+Connected U106 pin 10 to unconnected-(U106D-B-Pad10).
+Connected U106 pin 13 to IREF3.
+Connected U106 pin 6 to IREF1.
+Connected U106 pin 3 to Net-(U106B-A).
+Connected U106 pin 1 to Net-(U106A-A).
+Connected U106 pin 7 to GND.
+Connected U106 pin 9 to Net-(U106C-B).
+Connected U106 pin 5 to IREF2.
+Connected U106 pin 8 to Net-(U106C-A).
+Connected U106 pin 14 to 5V.
+Connected U106 pin 4 to Net-(U106B-B).
+Add net unconnected-(U106D-CTRL-Pad12).
+Connected U106 pin 12 to unconnected-(U106D-CTRL-Pad12).
+Updated U106 unit metadata.
+Warning: No net found for component L1 pad 3 (no pin 3 in symbol).
+
+
+Info: Total warnings: 1, errors: 0.
